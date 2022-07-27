@@ -1,0 +1,1720 @@
+"X","paper_doi","paper_files","paper_comment","np_core","np_shell_1","np_shell_2","np_shell_3","np_hydro_size","np_zeta","syn_description","syn_method","syn_temp","syn_pH","syn_steer","syn_atm","syn_press","syn_surf","syn_doi","xrd_scherrer_size","xrd_crystallinity","xrd_fracs","xrd_files","emic_exp_type","emic_kV","emic_scan_regime","emic_interplanar_dist","emic_size","emic_x_size","emic_y_size","emic_z_size","emic_shape","emic_files","ads_method","ads_adsorbate","ads_pore_volume","ads_density","ads_pore_size","ads_surf_area","ads_files","tox_test_type","tox_cell_line","tox_gen_tox","tox_mtt_24","tox_mtt_48","tox_mtt_72","tox_lc50","tox_noec","tox_loes","tox_live_frac","tox_apopt_frac","tox_necr_frac","squid_temp","squid_h_max","squid_sat_mag","squid_coerc_f","squid_rem_mag","squid_orient","squid_h_bias","squid_files","zfc_temp_min","zfc_temp_max","zfc_h_meas","zfc_temp_block","zfc_files","htherm_method","htherm_relax","htherm_h_amplitude","htherm_amf_freq","htherm_sar","htherm_ilp","htherm_toxicity","htherm_files","magmech_mech","magmech_h_val","magmech_mag_grad","magmech_torque","magmech_wdist","magmech_mag_type","magmech_target","magmech_target_force","mri_h_val","mri_r1","mri_r2","dds_h_val","dds_mag_grad","dds_wdist","dds_mag_type","dds_vessel","dds_velocity","dds_accumulation","mep_mep_coef","mep_h_val","mep_h_opt","mep_epsilon","mep_piezo","mep_resist"
+,"",,,"Mn0.43Fe2.57O4","-","-","-","19.97","-53.5","A one-pot synthetic route of MnxFe3-xO4
+nanoparticles (using x = 0.43 as example) is as follows: 0.903 g (1 mmol) of iron oleate (synthesized
+in a typical method) and 0.104 g (0.167 mmol) manganese oleate were dissolved in 15mL of
+1-octadecene, with the addition of 0.186 mL (0.584 mmol) of oleic acid. The solution was first kept
+at 120 °C for 30 min in vacuum to remove air and other impurities then refluxed at 320 °C in N2 for
+2 h before cooling to room temperature. The products were separated by centrifugation, washed three
+times with ethanol, and dispersed in hexane for further use. The preparation of Fe3O4 nanoparticles is
+similar to the procedure without the adding of manganese oleate.","thermal decomposition",,,,,,,"",,"crystalline","inverse spinel structures of magnetite",,"TEM",,"-","0.3","18.5","18.5","18.5","18.5","spherical",,,,,,,,,"MTT","SMMC-7721","no","100",,,,,,,,,"300","50000","75.6","0","0",,,,,,,,,,,,,,,,,,,,,,,,,"7","0.5","904.4",,,,,,,,,,,,,
+,"",,,"0.14Gd2O3-0.86Fe3O4","Sodium citrate","","",,,"The synthesis of GdIOP is straightforward
+as following: gadolinium oleate and iron oleate complex were
+prepared from reaction of sodium oleate and GdCl3 and FeCl3
+with needed molar raitos. The obtained dry oleate complex
+(1 mmol) was dissolved in 1-octadecene (15 mL) with addition
+of oleci acid (0.16 mL) as surfactant. The reaction system was
+allowed to reflux in N2 atomsphere for 2 h. After cooling to room
+temperature, excess isopropanol was added to the solution.
+The black products were collected by centrifugation and redispersed in hexane for further use.","",,,,,,,"",,"","Gd2O3/Fe3O4",,"HRTEM",,"",,"9","9","9","1.8","Plate",,,,,,,,,"MTT","SMMC-7721","","98",,,,,,,,,"300","50","21.9",,,,,,"5","300","0","90",,,,,,,,,,,,,,,,,,"0.5","61.5","147.2",,,,,,,,,,,,,
+,"",,,"0.14Gd2O3-0.86Fe3O4","Sodium citrate","","",,,"The synthesis of GdIOP is straightforward
+as following: gadolinium oleate and iron oleate complex were
+prepared from reaction of sodium oleate and GdCl3 and FeCl3
+with needed molar raitos. The obtained dry oleate complex
+(1 mmol) was dissolved in 1-octadecene (15 mL) with addition
+of oleci acid (0.16 mL) as surfactant. The reaction system was
+allowed to reflux in N2 atomsphere for 2 h. After cooling to room
+temperature, excess isopropanol was added to the solution.
+The black products were collected by centrifugation and redispersed in hexane for further use.","",,,,,,,"",,"","Gd2O3/Fe3O4",,"HRTEM",,"",,"9","9","9","1.8","Plate",,,,,,,,,"MTT","SMMC-7721","","98",,,,,,,,,"300","50","21.9",,,,,,"5","300","0","90",,,,,,,,,,,,,,,,,,"3","20.5","145.4",,,,,,,,,,,,,
+,"",,,"0.14Gd2O3-0.86Fe3O4","Sodium citrate","","",,,"The synthesis of GdIOP is straightforward
+as following: gadolinium oleate and iron oleate complex were
+prepared from reaction of sodium oleate and GdCl3 and FeCl3
+with needed molar raitos. The obtained dry oleate complex
+(1 mmol) was dissolved in 1-octadecene (15 mL) with addition
+of oleci acid (0.16 mL) as surfactant. The reaction system was
+allowed to reflux in N2 atomsphere for 2 h. After cooling to room
+temperature, excess isopropanol was added to the solution.
+The black products were collected by centrifugation and redispersed in hexane for further use.","",,,,,,,"",,"","Gd2O3/Fe3O4",,"HRTEM",,"",,"9","9","9","1.8","Plate",,,,,,,,,"MTT","SMMC-7721","","98",,,,,,,,,"300","50","21.9",,,,,,"5","300","0","90",,,,,,,,,,,,,,,,,,"7","6.8","158.8",,,,,,,,,,,,,
+,"",,,"0.14Gd2O3-0.86Fe3O4","Sodium citrate","","",,,"The synthesis of GdIOP is straightforward
+as following: gadolinium oleate and iron oleate complex were
+prepared from reaction of sodium oleate and GdCl3 and FeCl3
+with needed molar raitos. The obtained dry oleate complex
+(1 mmol) was dissolved in 1-octadecene (15 mL) with addition
+of oleci acid (0.16 mL) as surfactant. The reaction system was
+allowed to reflux in N2 atomsphere for 2 h. After cooling to room
+temperature, excess isopropanol was added to the solution.
+The black products were collected by centrifugation and redispersed in hexane for further use.","",,,,,,,"",,"","Gd2O3/Fe3O4",,"HRTEM",,"",,"9","9","9","1.8","Plate",,,,,,,,,"MTT","SMMC-7721","","98",,,,,,,,,"300","50","21.9",,,,,,"5","300","0","90",,,,,,,,,,,,,,,,,,"9.4","4.3","167.6",,,,,,,,,,,,,
+,"",,,"0.11Gd2O3-0.89Fe3O4","Sodium citrate","","",,,"The synthesis of GdIOP is straightforward
+as following: gadolinium oleate and iron oleate complex were
+prepared from reaction of sodium oleate and GdCl3 and FeCl3
+with needed molar raitos. The obtained dry oleate complex
+(1 mmol) was dissolved in 1-octadecene (15 mL) with addition
+of oleci acid (0.16 mL) as surfactant. The reaction system was
+allowed to reflux in N2 atomsphere for 2 h. After cooling to room
+temperature, excess isopropanol was added to the solution.
+The black products were collected by centrifugation and redispersed in hexane for further use.","",,,,,,,"",,"","Gd2O3/Fe3O4",,"HRTEM",,"",,"9","9","9","1.8","Plate",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.5","46.7","122.1",,,,,,,,,,,,,
+,"",,,"0.11Gd2O3-0.89Fe3O4","Sodium citrate","","",,,"The synthesis of GdIOP is straightforward
+as following: gadolinium oleate and iron oleate complex were
+prepared from reaction of sodium oleate and GdCl3 and FeCl3
+with needed molar raitos. The obtained dry oleate complex
+(1 mmol) was dissolved in 1-octadecene (15 mL) with addition
+of oleci acid (0.16 mL) as surfactant. The reaction system was
+allowed to reflux in N2 atomsphere for 2 h. After cooling to room
+temperature, excess isopropanol was added to the solution.
+The black products were collected by centrifugation and redispersed in hexane for further use.","",,,,,,,"",,"","Gd2O3/Fe3O4",,"HRTEM",,"",,"9","9","9","1.8","Plate",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"7","3.5","125.9",,,,,,,,,,,,,
+,"",,,"0.27Gd2O3-0.73Fe3O4","Sodium citrate","","",,,"The synthesis of GdIOP is straightforward
+as following: gadolinium oleate and iron oleate complex were
+prepared from reaction of sodium oleate and GdCl3 and FeCl3
+with needed molar raitos. The obtained dry oleate complex
+(1 mmol) was dissolved in 1-octadecene (15 mL) with addition
+of oleci acid (0.16 mL) as surfactant. The reaction system was
+allowed to reflux in N2 atomsphere for 2 h. After cooling to room
+temperature, excess isopropanol was added to the solution.
+The black products were collected by centrifugation and redispersed in hexane for further use.","",,,,,,,"",,"","Gd2O3/Fe3O4",,"HRTEM",,"",,"9","9","9","1.8","Plate",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"7","7","231.3",,,,,,,,,,,,,
+,"",,,"0.27Gd2O3-0.73Fe3O4","Sodium citrate","","",,,"The synthesis of GdIOP is straightforward
+as following: gadolinium oleate and iron oleate complex were
+prepared from reaction of sodium oleate and GdCl3 and FeCl3
+with needed molar raitos. The obtained dry oleate complex
+(1 mmol) was dissolved in 1-octadecene (15 mL) with addition
+of oleci acid (0.16 mL) as surfactant. The reaction system was
+allowed to reflux in N2 atomsphere for 2 h. After cooling to room
+temperature, excess isopropanol was added to the solution.
+The black products were collected by centrifugation and redispersed in hexane for further use.","",,,,,,,"",,"","Gd2O3/Fe3O4",,"HRTEM",,"",,"9","9","9","1.8","Plate",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.5","66.3","215.7",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acsomega.8b03004",,,"Fe3O4","Citric acid","","","15","-36.1","A mixture of
+FeCl3·6H2O (75 mg) and citric acid trisodium salt (80 mg)
+was dissolved in water (9 mL). Subsequently, hydrazine monohydrate (1 mL) was added and the mixture was rapidly
+introduced into the microwave. Samples were heated under
+vigorous stirring at 240 W for 10 min at 120 °C. Once this step
+was completed, nanoparticles were purified through a gel
+filtration column (PD10) to eliminate unreacted species and
+stored in glass vials for further characterization","",,,,,,,"",,"","",,"STEM-HAADF",,"",,"4.2","4.2","4.2","4.2","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","82.3",,,,,,,,,,,,,,,,,,,,,,,,,,,"1.5","11.9","22.9",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acsomega.8b03004",,,"Cu0.02Fe0.98Fe2O4","Citric acid","","","7.7","-3.1","A mixture of
+FeCl3·6H2O (75 mg) and citric acid trisodium salt (80 mg)
+was dissolved in water (9 mL). Subsequently, hydrazine monohydrate (1 mL) was added and the mixture was rapidly
+introduced into the microwave. Samples were heated under
+vigorous stirring at 240 W for 10 min at 120 °C. Once this step
+was completed, nanoparticles were purified through a gel
+filtration column (PD10) to eliminate unreacted species and
+stored in glass vials for further characterization","",,,,,,,"",,"","",,"STEM-HAADF",,"",,"3.2","3.2","3.2","3.2","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","76.6",,,,,,,,,,,,,,,,,,,,,,,,,,,"1.5","13.6","32.1",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acsomega.8b03004",,,"Cu0.04Fe0.96Fe2O4","Citric acid","","","16.1","-33.2","A mixture of
+FeCl3·6H2O (75 mg) and citric acid trisodium salt (80 mg)
+was dissolved in water (9 mL). Subsequently, hydrazine monohydrate (1 mL) was added and the mixture was rapidly
+introduced into the microwave. Samples were heated under
+vigorous stirring at 240 W for 10 min at 120 °C. Once this step
+was completed, nanoparticles were purified through a gel
+filtration column (PD10) to eliminate unreacted species and
+stored in glass vials for further characterization","",,,,,,,"",,"","",,"STEM-HAADF",,"",,"16.1","16.1","16.1","16.1","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","56.2",,,,,,,,,,,,,,,,,,,,,,,,,,,"1.5","15.7","32.8",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acsomega.8b03004",,,"Cu0.28Fe0.72Fe2O4","Citric acid","","","16","-33.6","A mixture of
+FeCl3·6H2O (75 mg) and citric acid trisodium salt (80 mg)
+was dissolved in water (9 mL). Subsequently, hydrazine monohydrate (1 mL) was added and the mixture was rapidly
+introduced into the microwave. Samples were heated under
+vigorous stirring at 240 W for 10 min at 120 °C. Once this step
+was completed, nanoparticles were purified through a gel
+filtration column (PD10) to eliminate unreacted species and
+stored in glass vials for further characterization","",,,,,,,"",,"","",,"STEM-HAADF",,"",,"16","16","16","16","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","43.8",,,,,,,,,,,,,,,,,,,,,,,,,,,"1.5","8.5","20.1",,,,,,,,,,,,,
+,"https://doi.org/10.1002/jmri.21194",,,"Fe3O4","DSPE","PEG-550","","12.5",,"Monocrystalline iron oxide (Fe3O4) nanoparticles (MIONs) were made using the reverse micelle method
+(14,15) and had an average core diameter of 6.6 nm
+(size variation of 11%), as determined by transmission EM (3)","",,,,,,,"https://doi.org/10.1007/s00775-004-0560-1",,"Mono","",,"TEM",,"",,"10.96","10.96","10.96","10.96","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.47","12.7","317",,,,,,,,,,,,,
+,"https://doi.org/10.1002/jmri.21194",,,"Fe3O4","DSPE","PEG-750","","10.35",,"Monocrystalline iron oxide (Fe3O4) nanoparticles (MIONs) were made using the reverse micelle method
+(14,15) and had an average core diameter of 6.6 nm
+(size variation of 11%), as determined by transmission EM (3)","",,,,,,,"https://doi.org/10.1007/s00775-004-0560-1",,"Mono","",,"TEM",,"",,"13.63","13.63","13.63","13.63","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.47","12.6","360",,,,,,,,,,,,,
+,"https://doi.org/10.1002/jmri.21194",,,"Fe3O4","DSPE","PEG-1000","","10.35",,"Monocrystalline iron oxide (Fe3O4) nanoparticles (MIONs) were made using the reverse micelle method
+(14,15) and had an average core diameter of 6.6 nm
+(size variation of 11%), as determined by transmission EM (3)","",,,,,,,"https://doi.org/10.1007/s00775-004-0560-1",,"Mono","",,"TEM",,"",,"13.63","13.63","13.63","13.63","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.47","25.2","194",,,,,,,,,,,,,
+,"https://doi.org/10.1002/jmri.21194",,,"Fe3O4","DSPE","PEG-2000","","16.4",,"Monocrystalline iron oxide (Fe3O4) nanoparticles (MIONs) were made using the reverse micelle method
+(14,15) and had an average core diameter of 6.6 nm
+(size variation of 11%), as determined by transmission EM (3)","",,,,,,,"https://doi.org/10.1007/s00775-004-0560-1",,"Mono","",,"TEM",,"",,"14.6","14.6","14.6","14.6","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.47","24.4","147",,,,,,,,,,,,,
+,"https://doi.org/10.1002/jmri.21194",,,"Fe3O4","DSPE","PEG-5000","","21.6",,"Monocrystalline iron oxide (Fe3O4) nanoparticles (MIONs) were made using the reverse micelle method
+(14,15) and had an average core diameter of 6.6 nm
+(size variation of 11%), as determined by transmission EM (3)","",,,,,,,"https://doi.org/10.1007/s00775-004-0560-1",,"Mono","",,"TEM",,"",,"16.2","16.2","16.2","16.2","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.47","21.5","173",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acsami.8b06569",,,"Eu-Fe3O4","Sodium citrate","","","78.3",,"EuIO was synthesized by a thermal
+decomposition method.24 Briefly, Eu(III) acetate (0.1 mmol) was
+added to benzyl ether (20 mL). The solution was heated to 100 °C
+and stirred for 40 min under a nitrogen atmosphere. Fe(acac)3 (1
+mmol) as iron precursors, 3 mmol of OM, 3 mmol of OA, and 5
+mmol of 1,2-hexadecanediol were added to the above solution. Themixture was heated to 200 °C and maintained for 1 h. The solution
+was then heated to 270 °C and reacted for 1 h. After cooling at room
+temperature, ethanol (40 mL) was added to the reaction mixture and
+centrifuged to obtain the resulting products, which were redispersed
+in 20 mL of hexane","Polyol",,,,,,,"",,"","",,"TEM",,"",,"4.9","4.9","4.9","4.9","Sphere",,,,,,,,,"MTT","NCTC 1469","","80",,,,,,,,,"300","40","42","0","0",,,,,,,,,,,,,,,,,,,,,,,,,"1.5","17.2","89.1",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acsami.8b06569",,,"Eu-Fe3O4","Alendro nate","","","77.1",,"EuIO was synthesized by a thermal
+decomposition method.24 Briefly, Eu(III) acetate (0.1 mmol) was
+added to benzyl ether (20 mL). The solution was heated to 100 °C
+and stirred for 40 min under a nitrogen atmosphere. Fe(acac)3 (1
+mmol) as iron precursors, 3 mmol of OM, 3 mmol of OA, and 5
+mmol of 1,2-hexadecanediol were added to the above solution. Themixture was heated to 200 °C and maintained for 1 h. The solution
+was then heated to 270 °C and reacted for 1 h. After cooling at room
+temperature, ethanol (40 mL) was added to the reaction mixture and
+centrifuged to obtain the resulting products, which were redispersed
+in 20 mL of hexane. A EuIO hexane solution (2 mL) and
+tetrahydrofuran (2 mL) mixture was added to an alendronate sodium
+trihydrate (50 mg) aqueous solution at pH 9, which was adjusted
+using an NaOH solution as previously described.26 The reaction
+solution was stirred for 2 d, and the products were collected by
+applying a magnet. The collected products were redispersed in
+distilled water.","Polyol",,,,,,,"",,"","",,"TEM",,"",,"4.9","4.9","4.9","4.9","Sphere",,,,,,,,,"MTT","NCTC 1469","","85",,,,,,,,,"300","40","42","0","0",,,,,,,,,,,,,,,,,,,,,,,,,"1.5","9.9","231.5",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acsami.8b06569",,,"Eu-Fe3O4","PMAO-PEG","","","78.3",,"EuIO was synthesized by a thermal
+decomposition method.24 Briefly, Eu(III) acetate (0.1 mmol) was
+added to benzyl ether (20 mL). The solution was heated to 100 °C
+and stirred for 40 min under a nitrogen atmosphere. Fe(acac)3 (1
+mmol) as iron precursors, 3 mmol of OM, 3 mmol of OA, and 5
+mmol of 1,2-hexadecanediol were added to the above solution. Themixture was heated to 200 °C and maintained for 1 h. The solution
+was then heated to 270 °C and reacted for 1 h. After cooling at room
+temperature, ethanol (40 mL) was added to the reaction mixture and
+centrifuged to obtain the resulting products, which were redispersed
+in 20 mL of hexane. Amino-functionalized poly(ethylene glycol)methyl
+ether (mPEG-NH2) and poly(maleic anhydride-alt-1-octadecene)
+(PMAO) (mPEG-NH2/PMAO molar ratio = 30:1) were mixed in
+chloroform, according to the previous procedure.27,28 The EuIO NPs
+in chloroform (5 mL) were added dropwise to the PMAO/PEG (PP)
+mixture (5 mL) and stirred overnight at room temperature. After the
+reaction, distilled water (10 mL) was added to the reaction solution
+and evaporated to remove the chloroform. After evaporation,
+chloroform (5 mL) was added to the aqueous media, and then, the
+solution was shaken. The mixture was left at room temperature for the
+layer separation. After the separation, the aqueous layer was collected
+and heated to 70 °C for 30 min to remove the remaining solvents. All
+of the final products (EuIO-Cit, EuIO-Ale, and EuIO-PP) were
+passed through a 0.1 μm filter before the experiment","Polyol",,,,,,,"",,"","",,"TEM",,"",,"4.9","4.9","4.9","4.9","Sphere",,,,,,,,,"MTT","NCTC 1469","","78",,,,,,,,,"300","40","42","0","0",,,,,,,,,,,,,,,,,,,,,,,,,"1.5","1.3","111.5",,,,,,,,,,,,,
+,"https://doi.org/10.1016/j.biomaterials.2012.11.054",,,"Fe3O4","PEG","","",,,"The Fe3O4 nanocrystals of 5 nm, 11 nm, and 21 nm sizes were prepared,
+respectively, through the previously reported procedure including the thermal
+decomposition of Fe-oleic acid complexes at high temperature","",,,,,,,"",,"","Fe3O4",,"TEM",,"",,"5","5","5","5","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","0.8","152",,,,,,,,,,,,,
+,"https://doi.org/10.1016/j.biomaterials.2012.11.054",,,"Fe3O4","PEG","","",,,"The Fe3O4 nanocrystals of 5 nm, 11 nm, and 21 nm sizes were prepared,
+respectively, through the previously reported procedure including the thermal
+decomposition of Fe-oleic acid complexes at high temperature","",,,,,,,"",,"","Fe3O4",,"TEM",,"",,"11","11","11","11","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","1.1","162",,,,,,,,,,,,,
+,"https://doi.org/10.1016/j.biomaterials.2012.11.054",,,"Fe3O4","PEG","","",,,"The Fe3O4 nanocrystals of 5 nm, 11 nm, and 21 nm sizes were prepared,
+respectively, through the previously reported procedure including the thermal
+decomposition of Fe-oleic acid complexes at high temperature","",,,,,,,"",,"","Fe3O4",,"TEM",,"",,"21","21","21","21","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","1.1","252",,,,,,,,,,,,,
+,"https://doi.org/10.1016/j.biomaterials.2012.11.054",,,"Fe3O4","MnO","PEG","",,,"The Fe3O4 nanocrystals of 5 nm, 11 nm, and 21 nm sizes were prepared,
+respectively, through the previously reported procedure including the thermal
+decomposition of Fe-oleic acid complexes at high temperature","",,,,,,,"",,"","Fe3O4",,"TEM",,"",,"24","24","11","11","Dumbbell",,,,,,,,,"","","",,,,,,,,,,"300",,"51.5",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","1.4","78.9",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acsnano.7b02675",,,"Fe3O4","Gd2O3","PEG","Folic Acid",,,". Iron acetylacetonate (0.4 g) was added into
+the mixed solution of ethylene glycol (15 mL) and diethylene glycol
+(30 mL) under magnetic stirring at 80 °C for 30 min. Subsequently,
+PEI (1.0 g) was added into the resulting solution at 80 °C and kept for
+30 min. Afterward, triethanolamine (3 mL) was added into mixture
+solution for 30 min. After that, the transparent solution was transferred
+into the Teflon-lined stainless steel autoclaves and kept at 200 °C for
+24 h. The black product (Fe3O4) was collected and washed with
+distilled water and alcohol at least three times. . Fe3O4 particles (50 mg) were dispersed in
+ethanol (10 mL) containing PEI (1 g) and stirred at room temperature
+for 12 h. The product (Fe3O4@PEI) was collected for further use.
+Gd(acac)3 (0.5 g) was added into diethylene glycol (50 mL) and
+stirred at 80 °C for 30 min. Then, Fe3O4@PEI was dispersed into the
+solution with stirring for 30 min. Next, triethanolamine (3 mL) was
+added into the resulting solution at 80 °C for 30 min. After that, the
+mixture solution was transferred into the Teflon-lined stainless steel
+autoclaves and kept at 200 °C for 3 days. The obtained product
+(YFGN) was collected and washed with water and alcohol at least
+three times. YFGN (32 mg) was dispersed
+into CDDP solution (6 mL, 2 mg/mL) and shaken at room
+temperature for 24 h, so that CDDP could be loaded into YFGN. After
+centrifuging at 11,000 rpm for 8 min, the residual CDDP in the
+supernatant was determined using ICP-OES. The drug capacity of
+YFGN-CDDP could be calculated according to our previously
+reported method.32 After that, NH2-PEG-COOH (MW = 1000) was
+grafted onto YFGN-CDDP via the following methods: NH2-PEGCOOH (5 mg) was reacted with NHS (5 mg) and EDC (5 mg) in
+DMSO for 5 h at room temperature. Then, YFGN-CDDP (10 mg)
+was added into the mixture solution and stirred overnight, and the
+obtained particles (PYFGN-CDDP) were collected through centrifugation at 11,000 rpm/min.
+Afterward, FA was conjugated onto the surface of PYFGN-CDDP
+(5 mg) via the following methods: (1) FA (0.5 mg) was activated via
+adding EDC (1 mg) and NHS (1 mg) into the DMSO solution (5
+mL) at room temperature for 4 h; (2) PYFGN-CDDP was dispersed
+into the mixture solution and stirred for 8 h at the same temperature.
+The obtained product (FA-PYFGN-CDDP) was collected and washed
+for subsequent experiments","",,,,,,,"",,"","Fe3O4/Gd2O3",,"STEM",,"",,"102","102","102","102","Sphere",,,,,,,,,"MTT","HeLa","",,"90",,,,,,,,"300","60","20.9",,,,,,,,,,,,,,,,,,,,,,,,,,,"9.4","7.91","386.5",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.1Fe2O4","DHCA","","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4",,"TEM",,"",,"3.7","3.7","3.7","3.7","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","33",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","3.85","34.18",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.2Fe2O4","DHCA","","","16.11",,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4",,"TEM",,"",,"4.1","4.1","4.1","4.1","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","37.77",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","4.28","51.55",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.3Fe2O4","DHCA","","","13.46",,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","44.29",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","10.05","69.3",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.4Fe2O4","DHCA","","","13.03",,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4",,"TEM",,"",,"4.1","4.1","4.1","4.1","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","51.13",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","13.77","77.32",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.5Fe2O4","DHCA","","","17.19",,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4",,"TEM",,"",,"3.5","3.5","3.5","3.5","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","50.43",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","11.49","77.26",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.6Fe2O4","DHCA","","","16.74",,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4",,"TEM",,"",,"3.4","3.4","3.4","3.4","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","48.62",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","10.24","72.37",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.7Fe2O4","DHCA","","","14.58",,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4",,"TEM",,"",,"3.9","3.9","3.9","3.9","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","39.8",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","7.18","55.74",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.8Fe2O4","DHCA","","","15.47",,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4",,"TEM",,"",,"3.7","3.7","3.7","3.7","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","30.8",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","3.18","33.92",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.9Fe2O4","DHCA","","","14.84",,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4",,"TEM",,"",,"3.6","3.6","3.6","3.6","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","11.2",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","1.3","18.33",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"y-Fe2O3","Fe3O4","","",,,"","",,,,,,,"",,"","y-Fe2O3/Fe3O4",,"TEM",,"",,"3.7","3.7","3.7","3.7","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","21",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","3.29","22.6",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"y-Fe2O3","Mn0.26Fe0.74Fe2O4","","",,,"","",,,,,,,"",,"","y-Fe2O3/MnFe2O4",,"TEM",,"",,"3.7","3.7","3.7","3.7","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","19",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","3.5","22.6",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"y-Fe2O3","Mn0.28Fe0.72Fe2O4","","",,,"","",,,,,,,"",,"","y-Fe2O3/MnFe2O4",,"TEM",,"",,"3.5","3.5","3.5","3.5","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","18",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","4.2","24.5",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"y-Fe2O3","Mn0.31Fe0.69Fe2O4","","",,,"","",,,,,,,"",,"","y-Fe2O3/MnFe2O4",,"TEM",,"",,"3.5","3.5","3.5","3.5","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","22",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","4.8","23.6",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"y-Fe2O3","Mn0.35Fe0.65Fe2O4","","",,,"","",,,,,,,"",,"","y-Fe2O3/MnFe2O4",,"TEM",,"",,"3.9","3.9","3.9","3.9","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","20",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","5.9","24.7",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"y-Fe2O3","Mn0.42Fe0.58Fe2O4","","",,,"","",,,,,,,"",,"","y-Fe2O3/MnFe2O4",,"TEM",,"",,"3.7","3.7","3.7","3.7","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","24",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","9.2","24.7",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"y-Fe2O3","Mn0.43Fe0.57Fe2O4","","",,,"","",,,,,,,"",,"","y-Fe2O3/MnFe2O4",,"TEM",,"",,"3.7","3.7","3.7","3.7","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","30","21",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","9","24.5",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.2Fe0.8Fe2O4","Zn0.2Mn0.05Fe0.75Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","4.79","55.92",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.2Fe0.8Fe2O4","Zn0.2Mn0.08Fe0.72Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","5.01","47.05",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.2Fe0.8Fe2O4","Zn0.2Mn0.1Fe0.7Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","5.59","53.29",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.2Fe0.8Fe2O4","Zn0.2Mn0.2Fe0.6Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","6.3","53.02",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.3Fe0.7Fe2O4","Zn0.3Mn0.05Fe0.65Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","10.81","67.84",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.3Fe0.7Fe2O4","Zn0.3Mn0.08Fe0.62Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","11.25","63.85",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.3Fe0.7Fe2O4","Zn0.3Mn0.1Fe0.6Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","12.49","62.4",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.3Fe0.7Fe2O4","Zn0.3Mn0.2Fe0.5Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","14.76","62.95",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.4Fe0.6Fe2O4","Zn0.4Mn0.05Fe0.55Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","14.82","79.51",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.4Fe0.6Fe2O4","Zn0.4Mn0.08Fe0.52Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","15.35","75.72",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.4Fe0.6Fe2O4","Zn0.4Mn0.1Fe0.5Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","16.67","73.42",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.4Fe0.6Fe2O4","Zn0.4Mn0.2Fe0.4Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","20.22","77.31",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.5Fe0.5Fe2O4","Zn0.5Mn0.05Fe0.45Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","12.75","78.38",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.5Fe0.5Fe2O4","Zn0.5Mn0.08Fe0.42Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","13.04","75.14",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.5Fe0.5Fe2O4","Zn0.5Mn0.1Fe0.4Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","14.72","77.84",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.5Fe0.5Fe2O4","Zn0.5Mn0.2Fe0.3Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","16.94","77.97",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.6Fe0.4Fe2O4","Zn0.6Mn0.05Fe0.35Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","11.17","78.38",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.6Fe0.4Fe2O4","Zn0.6Mn0.08Fe0.32Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","11.84","74.38",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.6Fe0.4Fe2O4","Zn0.6Mn0.1Fe0.3Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","12.56","69.67",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.6Fe0.4Fe2O4","Zn0.6Mn0.2Fe0.2Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","13.8","71.1",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.7Fe0.3Fe2O4","Zn0.7Mn0.05Fe0.25Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","8.66","61.52",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.7Fe0.3Fe2O4","Zn0.7Mn0.08Fe0.22Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","8.98","53.31",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.7Fe0.3Fe2O4","Zn0.7Mn0.1Fe0.2Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","9.64","51.2",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.7Fe0.3Fe2O4","Zn0.7Mn0.2Fe0.1Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","11.58","53.01",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.8Fe0.2Fe2O4","Zn0.8Mn0.05Fe0.15Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","3.83","30.86",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.8Fe0.2Fe2O4","Zn0.8Mn0.08Fe0.12Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","4.9","27.68",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.8Fe0.2Fe2O4","Zn0.8Mn0.1Fe0.1Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","5.58","35.55",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.8Fe0.2Fe2O4","Zn0.8Mn0.2Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","7.32","33.35",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.9Fe0.1Fe2O4","Zn0.9Mn0.05Fe0.05Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","2.42","19",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.9Fe0.1Fe2O4","Zn0.9Mn0.08Fe0.02Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","3.06","21.76",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.9Fe0.1Fe2O4","Zn0.9Mn0.1Fe2O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","3.41","22.73",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.9Fe0.1Fe2O4","Zn0.9Mn0.2Fe1.9O4","AMD3100","",,,"The 3.8 nm ultrasmall ZnxF nanoparticles were first prepared based on the previously
+reported dynamic simultaneous thermal decomposition (DSTD) method.1
+ In a typical
+synthesis of Zn0.4F nanoparticles, iron-eruciate complex (2.14 g), zinc hydroxide
+carbonate (0.09 g), oleyl alcohol (3.22 g), and benzyl ether (10 g) were mixed in a 50
+ml three-necked, round-bottomed flask. The mixed solution was heated to 260 °C and
+it was maintained for another 30 min in the presence of an argon atmosphere. The heat
+source was then removed, and the reaction mixture was cooled down quickly to room
+temperature. Upon the addition of ethanol, a black precipitate was isolated by
+centrifugation. The obtained Zn0.4F nanoparticles were then dissolved in hexane for
+further use. To adjust the Zn doping level (x) in the sample, various amounts of ironeruciate complex and zinc hydroxide carbonate were used. A summary of the detailed
+reaction parameters is shown in Table S1. The cation exchange reaction was then
+carried out for the obtained ZnxF@ZnxMnyF nanoparticles. In a typical setup, 1 mL of
+Zn0.4F nanoparticles (500 mM) and 1 mL of MnCl2·4H2O (10-35 mM) were dispersed
+in 5 ml of tetrahydrofuran (THF). The mixture was heated to 60 °C, and it was
+maintained for 30 min under magnetic stirring. After cooling down to room temperature,
+the mixture was purified via centrifugation","",,,,,,,"https://doi.org/10.1021/acsnano.6b07684",,"","ZnFe2O4/MnFe2O4",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","4.39","20.23",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.2Fe0.8Fe2O4","Zn0.2Gd0.2Fe0.6Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","9.92","52.62",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.3Fe0.7Fe2O4","Zn0.3Gd0.2Fe0.5Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","18.83","69.56",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.4Fe0.6Fe2O4","Zn0.4Gd0.2Fe0.4Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","22.99","79.4",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.5Fe0.5Fe2O4","Zn0.5Gd0.2Fe0.3Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","20.69","74.45",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.6Fe0.4Fe2O4","Zn0.6Gd0.2Fe0.2Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","17.03","76.67",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.7Fe0.3Fe2O4","Zn0.7Gd0.2Fe0.1Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","13.93","57.26",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.8Fe0.2Fe2O4","Zn0.8Gd0.2Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","9.68","37.13",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.9Fe0.1Fe2O4","Zn0.9Gd0.2Fe1.9O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","6.02","18.13",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.9Fe0.1Fe2O4","Zn0.9Cu0.2Fe1.9O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","1.15","16.35",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.2Fe0.8Fe2O4","Zn0.2Cu0.2Fe0.6Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","3.75","49.56",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.3Fe0.7Fe2O4","Zn0.3Cu0.2Fe0.5Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","9.63","69.37",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.4Fe0.6Fe2O4","Zn0.4Cu0.2Fe0.4Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","14.61","79.93",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.5Fe0.5Fe2O4","Zn0.5Cu0.2Fe0.3Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","11.35","72.59",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.6Fe0.4Fe2O4","Zn0.6Cu0.2Fe0.2Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","10.64","73.97",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.7Fe0.3Fe2O4","Zn0.7Cu0.2Fe0.1Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","8.5","53.91",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.nanolett.0c04574",,,"Zn0.8Fe0.2Fe2O4","Zn0.8Cu0.2Fe2O4","","",,,"","",,,,,,,"https://doi.org/10.1021/acs.nanolett.0c04574",,"","",,"TEM",,"",,"3.8","3.8","3.8","3.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3","3.24","35.63",,,,,,,,,,,,,
+,"https://doi.org/10.1021/ja104503g",,,"MnFe2O4","SiO2","Gd2O(CO3)2","",,,"MnCl2 (27 mg) and Fe(acac)3 (65 mg, acac = acetylacetonate) were placed in a 50
+mL three-neck round-bottom flask in the presence of surfactants (oleic acid and
+oleylamine) in octyl ether (15 mL).1
+ The reaction mixture was stirred at 300oC for 1 h and
+then cooled to room temperature. Nanoparticles were collected by adding excess ethanol
+and centrifugation and redispersed in toluene.
+MnFe2O4@SiO2 nanoparticles with 16 nm SiO2 shell were synthesized using a slight
+modification of a known method.2
+ Polyoxyethylene(5)nonylphenyl ether (1.68 mmol,
+Igepal CO-520, containing 50 mol % hydrophilic group) and 1.2 mg MnFe2O4 were
+dispersed in cyclohexane and vortexed. Then, ammonium hydroxide (30%, 105 µL) was
+added to form a transparent and brown reverse microemulsion. Next, tetraethyl
+orthosilicate (92 µL, TEOS) was added and the emulsion was let stand for 72 h at room
+temperature. When methanol was added to the reaction solution, MnFe2O4@SiO2
+nanoparticles were precipitated and collected by centrifugation. To control the SiO2
+thicknesses from 4 to 8, 12, and 20 nm, amount of TEOS were changed from 10 to 24, 51,
+and 149 µl, respectively. Synthesized MnFe2O4@SiO2 nanoparticles were dispersed in the diethylglycol
+solution containing 38 mM Gd(NO3)3 and 2 M (NH2)2CO and the solution was, then, let
+stand at 80 ◦C under Ar atomosphere with continuous stirring.3
+ After the reaction was
+finished, nanoparticles were separated through precipitation using centrifugation after
+adding acetone and redispersed in water.","",,,,,,,"",,"","",,"",,"",,"26","26","26","26","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4.7","2","332",,,,,,,,,,,,,
+,"https://doi.org/10.1021/ja104503g",,,"MnFe2O4","SiO2","Gd2O(CO3)2","",,,"MnCl2 (27 mg) and Fe(acac)3 (65 mg, acac = acetylacetonate) were placed in a 50
+mL three-neck round-bottom flask in the presence of surfactants (oleic acid and
+oleylamine) in octyl ether (15 mL).1
+ The reaction mixture was stirred at 300oC for 1 h and
+then cooled to room temperature. Nanoparticles were collected by adding excess ethanol
+and centrifugation and redispersed in toluene.
+MnFe2O4@SiO2 nanoparticles with 16 nm SiO2 shell were synthesized using a slight
+modification of a known method.2
+ Polyoxyethylene(5)nonylphenyl ether (1.68 mmol,
+Igepal CO-520, containing 50 mol % hydrophilic group) and 1.2 mg MnFe2O4 were
+dispersed in cyclohexane and vortexed. Then, ammonium hydroxide (30%, 105 µL) was
+added to form a transparent and brown reverse microemulsion. Next, tetraethyl
+orthosilicate (92 µL, TEOS) was added and the emulsion was let stand for 72 h at room
+temperature. When methanol was added to the reaction solution, MnFe2O4@SiO2
+nanoparticles were precipitated and collected by centrifugation. To control the SiO2
+thicknesses from 4 to 8, 12, and 20 nm, amount of TEOS were changed from 10 to 24, 51,
+and 149 µl, respectively. Synthesized MnFe2O4@SiO2 nanoparticles were dispersed in the diethylglycol
+solution containing 38 mM Gd(NO3)3 and 2 M (NH2)2CO and the solution was, then, let
+stand at 80 ◦C under Ar atomosphere with continuous stirring.3
+ After the reaction was
+finished, nanoparticles were separated through precipitation using centrifugation after
+adding acetone and redispersed in water.","",,,,,,,"",,"","",,"",,"",,"34","34","34","34","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4.7","4","318",,,,,,,,,,,,,
+,"https://doi.org/10.1021/ja104503g",,,"MnFe2O4","SiO2","Gd2O(CO3)2","",,,"MnCl2 (27 mg) and Fe(acac)3 (65 mg, acac = acetylacetonate) were placed in a 50
+mL three-neck round-bottom flask in the presence of surfactants (oleic acid and
+oleylamine) in octyl ether (15 mL).1
+ The reaction mixture was stirred at 300oC for 1 h and
+then cooled to room temperature. Nanoparticles were collected by adding excess ethanol
+and centrifugation and redispersed in toluene.
+MnFe2O4@SiO2 nanoparticles with 16 nm SiO2 shell were synthesized using a slight
+modification of a known method.2
+ Polyoxyethylene(5)nonylphenyl ether (1.68 mmol,
+Igepal CO-520, containing 50 mol % hydrophilic group) and 1.2 mg MnFe2O4 were
+dispersed in cyclohexane and vortexed. Then, ammonium hydroxide (30%, 105 µL) was
+added to form a transparent and brown reverse microemulsion. Next, tetraethyl
+orthosilicate (92 µL, TEOS) was added and the emulsion was let stand for 72 h at room
+temperature. When methanol was added to the reaction solution, MnFe2O4@SiO2
+nanoparticles were precipitated and collected by centrifugation. To control the SiO2
+thicknesses from 4 to 8, 12, and 20 nm, amount of TEOS were changed from 10 to 24, 51,
+and 149 µl, respectively. Synthesized MnFe2O4@SiO2 nanoparticles were dispersed in the diethylglycol
+solution containing 38 mM Gd(NO3)3 and 2 M (NH2)2CO and the solution was, then, let
+stand at 80 ◦C under Ar atomosphere with continuous stirring.3
+ After the reaction was
+finished, nanoparticles were separated through precipitation using centrifugation after
+adding acetone and redispersed in water.","",,,,,,,"",,"","",,"",,"",,"42","42","42","42","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4.7","25.1","305",,,,,,,,,,,,,
+,"https://doi.org/10.1021/ja104503g",,,"MnFe2O4","SiO2","Gd2O(CO3)2","",,,"MnCl2 (27 mg) and Fe(acac)3 (65 mg, acac = acetylacetonate) were placed in a 50
+mL three-neck round-bottom flask in the presence of surfactants (oleic acid and
+oleylamine) in octyl ether (15 mL).1
+ The reaction mixture was stirred at 300oC for 1 h and
+then cooled to room temperature. Nanoparticles were collected by adding excess ethanol
+and centrifugation and redispersed in toluene.
+MnFe2O4@SiO2 nanoparticles with 16 nm SiO2 shell were synthesized using a slight
+modification of a known method.2
+ Polyoxyethylene(5)nonylphenyl ether (1.68 mmol,
+Igepal CO-520, containing 50 mol % hydrophilic group) and 1.2 mg MnFe2O4 were
+dispersed in cyclohexane and vortexed. Then, ammonium hydroxide (30%, 105 µL) was
+added to form a transparent and brown reverse microemulsion. Next, tetraethyl
+orthosilicate (92 µL, TEOS) was added and the emulsion was let stand for 72 h at room
+temperature. When methanol was added to the reaction solution, MnFe2O4@SiO2
+nanoparticles were precipitated and collected by centrifugation. To control the SiO2
+thicknesses from 4 to 8, 12, and 20 nm, amount of TEOS were changed from 10 to 24, 51,
+and 149 µl, respectively. Synthesized MnFe2O4@SiO2 nanoparticles were dispersed in the diethylglycol
+solution containing 38 mM Gd(NO3)3 and 2 M (NH2)2CO and the solution was, then, let
+stand at 80 ◦C under Ar atomosphere with continuous stirring.3
+ After the reaction was
+finished, nanoparticles were separated through precipitation using centrifugation after
+adding acetone and redispersed in water.","",,,,,,,"",,"","",,"",,"",,"50","50","50","50","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4.7","33.1","274",,,,,,,,,,,,,
+,"https://doi.org/10.1021/ja104503g",,,"MnFe2O4","SiO2","Gd2O(CO3)2","",,,"MnCl2 (27 mg) and Fe(acac)3 (65 mg, acac = acetylacetonate) were placed in a 50
+mL three-neck round-bottom flask in the presence of surfactants (oleic acid and
+oleylamine) in octyl ether (15 mL).1
+ The reaction mixture was stirred at 300oC for 1 h and
+then cooled to room temperature. Nanoparticles were collected by adding excess ethanol
+and centrifugation and redispersed in toluene.
+MnFe2O4@SiO2 nanoparticles with 16 nm SiO2 shell were synthesized using a slight
+modification of a known method.2
+ Polyoxyethylene(5)nonylphenyl ether (1.68 mmol,
+Igepal CO-520, containing 50 mol % hydrophilic group) and 1.2 mg MnFe2O4 were
+dispersed in cyclohexane and vortexed. Then, ammonium hydroxide (30%, 105 µL) was
+added to form a transparent and brown reverse microemulsion. Next, tetraethyl
+orthosilicate (92 µL, TEOS) was added and the emulsion was let stand for 72 h at room
+temperature. When methanol was added to the reaction solution, MnFe2O4@SiO2
+nanoparticles were precipitated and collected by centrifugation. To control the SiO2
+thicknesses from 4 to 8, 12, and 20 nm, amount of TEOS were changed from 10 to 24, 51,
+and 149 µl, respectively. Synthesized MnFe2O4@SiO2 nanoparticles were dispersed in the diethylglycol
+solution containing 38 mM Gd(NO3)3 and 2 M (NH2)2CO and the solution was, then, let
+stand at 80 ◦C under Ar atomosphere with continuous stirring.3
+ After the reaction was
+finished, nanoparticles were separated through precipitation using centrifugation after
+adding acetone and redispersed in water.","",,,,,,,"",,"","",,"",,"",,"58","58","58","58","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4.7","32.5","213",,,,,,,,,,,,,
+,"https://doi.org/10.1002/adma.201203169",,,"0.07Gd2O3-0.93Fe3O4","HDA-G2","","",,,"The monodisperse GdIO nanoparticles were synthesized
+through thermal decomposition of metal oleate complexes. Briefly, iron oleate (0.923 g, 1
+mmol), gadolinium oleate (0.1 g, 0.1 mmol), and oleic acid (0.17 mL, 0.55 mmol) were mixed
+in a three neck bottle flask containing 1-octadecene (15 mL). The solution was heated to
+reflux for 2 h with heating rate of 5 °C min-1
+under inert atmosphere. The resulting solution
+was then cooled to room temperature, and was added with isopropanol (60 mL) to precipitate
+the nanoparticles. The product was collected by centrifugation and finally redispersed in
+hexane for further use. Synthesis of magnetite and Gd2O3 nanoparticles were followed the
+same procedures that of GdIO naoparticles and detailed in supporting information.","",,,,,,,"",,"","Gd2O3/Fe3O4",,"HRTEM","200","",,"14","14","14","14","Sphere",,,,,,,,,"MTT","HeLa","","82","80",,,,,,,,"300","50","26.5",,,,,,"5","300","50","150",,,,,,,,,,,,,,,,,,"0.5","69.5","146.5",,,,,,,,,,,,,
+,"https://doi.org/10.1002/adma.201203169",,,"Gd2O3","HDA-G2","","",,,"Gadolinium oleate (0.5 g, 0.5 mmol) was dissolved to 1-
+octadecene (10 mL) containing oleic acid (1 mL), the reaction system was performed at reflux
+temperature for 4 h. After cooling to room temperature by removing the heating resource, 30
+mL isopropanol was added to the solution to precipitate the products, and then the
+nanoparticles were collected by centrifugation at 8000 rpm for 10 min and dispersed in
+hexane for further use","",,,,,,,"",,"","Gd2O3/Fe3O4",,"HRTEM","200","",,"2","2","2","2","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.5","12.1",,,,,,,,,,,,,,
+,"https://doi.org/10.1002/adma.201203169",,,"Fe3O4","HDA-G2","","",,,": Iron oleate (0.923 g, 1 mmol) and oleic acid (0.16 mL,
+0.5 mmol) were mixed in a there neck bottle flask with 1-octadecene (15 mL) as solvent.
+After reflux for 1 h and cooling to room temperature, the products was precipitated by adding
+of isopropanol, then collected by centrifugation and redispersed in hexane for further use.","",,,,,,,"",,"","Gd2O3/Fe3O4",,"HRTEM","200","",,"14","14","14","14","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","50","64",,,,,,,,,,,,,,,,,,,,,,,,,,,"0.5",,"125.4",,,,,,,,,,,,,
+,"https://doi.org/10.1002/anie.200603052",,,"DySiO2","Fe3O4","sulfo-SMCC","","46",,"Synthesis of DySiO2–(Fe3O4)n nanoparticles: Dye-doped silica
+(DySiO2) and 9-nm water-soluble iron oxide (Fe3O4, WSIO) nanoparticles were synthesized by a literature method.[2e, 4a] Our hybrid
+nanoparticles were fabricated through conjugation of these dyedoped silica nanoparticles with WSIOby using sulfo-SMCC (Pierce)
+cross-linkers. In a typical experiment, DySiO2 nanoparticles were
+dissolved in 10 mm phosphate buffer solution (0.1 mL) with a final
+concentration of 5 mgmL1
+. The nanoparticle surface amine was
+modified with a maleimide group by adding sulfo-SMCC cross-linker
+molecules (30 mg). After 30 min, excess cross-linkers were removed
+by passing them through a desalting column and a 10 mgmL1 WSIO
+nanoparticle solution (50 mL) was added to the maleimide-modified
+silica nanoparticle solution. Unreacted WSIOnanoparticles were
+removed by passing them through Sephacryl S-300 column (Amersham Biosciences). The formation of DySiO2–(Fe3O4)n nanoparticles
+was confirmed by gel electrophoretic analysis. A new band with
+delayed migration appears in both optical and fluorescence images
+when compared to those of WSIOand DySiO2 nanoparticles (see the
+Supporting Information).","",,,,,,,"",,"","",,"TEM",,"",,"48","48","48","48","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"9.4",,"397",,,,,,,,,,,,,
+,"https://doi.org/10.1002/anie.200603052",,,"Fe3O4","","sulfo-SMCC","","10",,"","",,,,,,,"https://doi.org/10.1073/pnas.0504926102",,"","",,"TEM",,"",,"9","9","9","9","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"9.4",,"116",,,,,,,,,,,,,
+,".10.1016.e.2015.02.019",,,"Fe3O4","DMSA","Au","",,,"The Fe3O4 NPs were synthesized via co-precipitation method and further
+modified with DMSA as previously reported with a little modification [37]. Briefly,
+5.406 g FeCl3 and 1.988 g FeCl2 were separately dissolved in 20 mL deionized (DI)
+water and 5 mL HCl (2 M), respectively. Then these two solutions were added into
+100 mL DI water. After that, 120 mL ammonia solution (2 M) was added into the
+suspension, and allowed to react for 10 min under magnetic stirring. The black
+precipitation was harvested with magnet, washed with DI water for at least three
+times, and finally re-dispersed in 50 mL DI water. Separately, 40 mg DMSA was
+added into 40 mL DI water, and the pH of the solution was adjusted to 3.0e3.5 with
+HCl. When mixed with the suspension of Fe3O4 NPs, the pH of the solution was
+adjusted to 4.0 with HCl and allowed to react for 60 min under nitrogen atmosphere
+with continuous stirring. The resulting DMSA-modified Fe3O4 NPs were collected
+with magnet and washed with DI water three times. After that, this sample was redispersed in 30 mL DI water prior to further reaction. Then, 1 mL HAuCl4 solution
+with different concentration was dropped into 5 mL DMSA-modified Fe3O4 NPs
+solution and reacted for 30 min under continuous stirring. The color of the solution
+changed from black to brownish. Samples were harvested with magnet, washed
+with DI water for three times, and re-dispersed in DI water.","",,,,,,,"https://doi.org/10.1016/j.biomaterials.2013.01.086",,"","",,"TEM",,"",,"28","28","28","28","Sphere",,,,,,,,,"MTT","BGC-823","","84",,,,,,,,,"300","15","58",,,,,,,,,,,,,,,,,,,,,,,,,,,"3",,"79.6",,,,,,,,,,,,,
+,"https://doi.org/10.1021/ja3016582",,,"Fe3O4","TaOx","RITC","PEG","18",,"Iron oxide nanoparticles were synthesized according to the previously reported procedure with a little
+modification.1
+ 36 g of iron-oleate complex (40 mmol), 10.4 g of oleic acid (40 mmol, 90%, Aldrich),
+and 200 g of dioctyl ether (95%, Aldrich) were added in 1 L reactor and mixed at room temperature.
+The reaction mixture was degassed at 90 °C under vacuum for 2 h. The mixture was heated to 287 °C
+with a constant heating rate of 3.3 °C/min, and then kept at that temperature for 30 min under inert
+atmosphere. The resulting solution containing the nanoparticles was then slowly cooled to
+approximately 150 °C, and the solution was exposure to air to increase the crystallinity of the
+nanoparticles for 2 hr. Subsequently, 700 ml of acetone was added to the solution to precipitate the
+nanoparticles. The nanoparticles were separated by discarding supernatant and dispersed in hydrophobic
+solvent such as n-hexane or chloroform. Finally the iron oxide nanoparticles were redispersed in
+cyclohexane with concentration of 20 mg/ml. Microemulsion was prepared by adding 5 ml of NaOH aqueous solution (75 mM) to the oil phase
+composed of 8ml cyclohexane containing Fe3O4 nanoparticles, 46 g of Igepal CO-520 (Aldrich), 5mL of
+ethanol (Samchun, 99.9%), and 800 ml of cyclohexane (Samchun, 99.5%). After 1 mL of tantalum(V)
+ethoxide (0.3 mmol, Strem, 99.8%) was added to the mixture at room temperature, Fe3O4/TaOx
+core/shell nanoparticles were synthesized within 5 min.
+To prepare rhodamine-B-isothiocyanate (RITC)-functionalized silane, 110 μl of
+aminopropyltriethoxysilane (APTES, Aldrich) was reacted with 50 mg of RITC in 3.75 ml of ethanol at
+room temperature for 24 h. The 1.5ml of resulting solution and 5 ml of 2-
+methoxy(polyethyleneoxy)propyl trimethoxysilane (PEG-silane, Gelest, 596-725 Da) was added to 1 L
+of the as-prepared mixture containing Fe3O4/TaOx core/shell nanoparticles. The mixture was then stirred
+at room temperature for 24 h, becoming a red turbid solution. The resulting solution was evaporated at
+60 °C until the solution became transparent, after which the functionalized Fe3O4/TaOx core/shell
+nanoparticles were precipitated by adding a mixed solution of 1:1 (v/v) ether/n-hexane. The precipitates
+were purified with ether and dispersed in ethanol. To this solution was added 40 mg of
+methoxypoly(ethylene glycol) succinimidylglutarate (mPEG-SG, MW 2000, Sunbio). The mixture was
+stirred overnight at 30 °C to conjugate PEG onto residual amine groups on the surface of the
+functionalized Fe3O4/TaOx core/shell nanoparticles. After being washed several times with deionized
+water, the final product was dispersed in phosphate buffered saline (PBS) buffer","",,,,,,,"",,"","",,"TEM","200","",,"8","8","8","8","Sphere",,,,,,,,,"MTT","RAW 264.7","","97",,,,,,,,,"300","50","4.3",,,,,,,,,,,,,,,,,,,,,,,,,,,"3",,"81.156",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acsami.7b05389",,,"Fe3O4","SiO2","peptide A KSKSQSGPLGLAGGSQPC","Gd",,,"We prepared Fe3O4 nanoparticles according to a modification of a previous method.1
+ Typically,
+3.8 g (4 mmol) of iron-oleate complex and 1 mL (6.25 mmol) of oleic acid were dissolved in 30 mL
+of 1-octadecene at room temperature. The reaction mixture was subsequently heated to reflux
+(~315 °C) for 1 h before it was cooled down to room temperature. The product was precipitated by
+adding ethanol, then collected by centrifugation, and re-dispersed in cyclohexane. Fe3O4@SiO2 nanoparticles were synthesized using a modification of a known method.2
+ 1 mL of Igepal CO-520,
+0.8 mg of Fe3O4 and 200 µL of ammonium hydroxide (30%) were dispersed in cyclohexane and
+stirred to form a transparent and brown reverse microemulsion. Next, 100 µL of tetraethyl
+orthosilicate (TEOS) was added and the emulsion was let stand for 12 h at room temperature. 100 µL
+of (3-aminopropyl)triethoxysilane (APTES) was added and reacted for another 10 h to introduce
+-NH2 onto the surface. Fe3O4@SiO2-NH2 nanoparticles were precipitated and collected by
+centrifugation after demulsion by ethanol. Multistep conjugations were conducted on the surface of Fe3O4 NPs to install Gd
+chelates on the central nanoparticle via cleavable linkers. First, Fe3O4
+NPs were coated with SiO2 shells with amino groups modification on
+the surface, which were then conjugated to heterobifunctional linkers,
+4-(N-maleimidomethyl)cyclohexane-1-carboxylic acid 3-sulfo-N-hydroxysuccinimide ester sodium salt, via amide formation. Second,
+Peptide A (sequence: KSKSQSGPLGLAGGSQPC) was conjugated to
+the nanoparticles through the reaction between maleimide and thiol of
+cysteine residues, and then alkynyl groups were introduced by the
+reaction between the amino group on the peptide and propargyl-Nhydroxysuccinimidyl ester. After that, dendrimer azide-PAMAM (N3−
+G2) was introduced via standard Sharpless click conditions using
+ascorbic acid and CuSO4. Third, Gd chelates were conjugated by
+modified nanoparticles with p-SCN−DTPA and Gd3+ chelation with
+GdCl3·6H2O. Ultrafiltration was executed after each modification step
+to remove excess reactants from the NPs. We also assembled Fe3O4−
+pepB−Gd (without signal amplification) and Fe3O4−pepA(D)−Gd
+(uncleavable peptide) conjugates for negative control; see the
+Supporting Information for details","",,,,,,,"",,"","",,"TEM","200","",,"24","24","24","24","Sphere",,,,,,,,,"MTT","HT-1080","","78",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.47","3.02",,,,,,,,,,,,,,
+,"https://doi.org/10.1021/acsami.7b05389",,,"Fe3O4","SiO2","peptide B Ac-KSGSQSGPLGLAGGSQPC","Gd",,,"We prepared Fe3O4 nanoparticles according to a modification of a previous method.1
+ Typically,
+3.8 g (4 mmol) of iron-oleate complex and 1 mL (6.25 mmol) of oleic acid were dissolved in 30 mL
+of 1-octadecene at room temperature. The reaction mixture was subsequently heated to reflux
+(~315 °C) for 1 h before it was cooled down to room temperature. The product was precipitated by
+adding ethanol, then collected by centrifugation, and re-dispersed in cyclohexane. Fe3O4@SiO2 nanoparticles were synthesized using a modification of a known method.2
+ 1 mL of Igepal CO-520,
+0.8 mg of Fe3O4 and 200 µL of ammonium hydroxide (30%) were dispersed in cyclohexane and
+stirred to form a transparent and brown reverse microemulsion. Next, 100 µL of tetraethyl
+orthosilicate (TEOS) was added and the emulsion was let stand for 12 h at room temperature. 100 µL
+of (3-aminopropyl)triethoxysilane (APTES) was added and reacted for another 10 h to introduce
+-NH2 onto the surface. Fe3O4@SiO2-NH2 nanoparticles were precipitated and collected by
+centrifugation after demulsion by ethanol. Multistep conjugations were conducted on the surface of Fe3O4 NPs to install Gd
+chelates on the central nanoparticle via cleavable linkers. First, Fe3O4
+NPs were coated with SiO2 shells with amino groups modification on
+the surface, which were then conjugated to heterobifunctional linkers,
+4-(N-maleimidomethyl)cyclohexane-1-carboxylic acid 3-sulfo-N-hydroxysuccinimide ester sodium salt, via amide formation. Second,
+Peptide A (sequence: KSKSQSGPLGLAGGSQPC) was conjugated to
+the nanoparticles through the reaction between maleimide and thiol of
+cysteine residues, and then alkynyl groups were introduced by the
+reaction between the amino group on the peptide and propargyl-Nhydroxysuccinimidyl ester. After that, dendrimer azide-PAMAM (N3−
+G2) was introduced via standard Sharpless click conditions using
+ascorbic acid and CuSO4. Third, Gd chelates were conjugated by
+modified nanoparticles with p-SCN−DTPA and Gd3+ chelation with
+GdCl3·6H2O. Ultrafiltration was executed after each modification step
+to remove excess reactants from the NPs. We also assembled Fe3O4−
+pepB−Gd (without signal amplification) and Fe3O4−pepA(D)−Gd
+(uncleavable peptide) conjugates for negative control; see the
+Supporting Information for details","",,,,,,,"",,"","",,"TEM","200","",,"24","24","24","24","Sphere",,,,,,,,,"MTT","HT-1080","","95",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.47","3.03",,,,,,,,,,,,,,
+,"https://doi.org/10.1021/acsami.7b05389",,,"Fe3O4","SiO2","","",,,"We prepared Fe3O4 nanoparticles according to a modification of a previous method.1
+ Typically,
+3.8 g (4 mmol) of iron-oleate complex and 1 mL (6.25 mmol) of oleic acid were dissolved in 30 mL
+of 1-octadecene at room temperature. The reaction mixture was subsequently heated to reflux
+(~315 °C) for 1 h before it was cooled down to room temperature. The product was precipitated by
+adding ethanol, then collected by centrifugation, and re-dispersed in cyclohexane. Fe3O4@SiO2 nanoparticles were synthesized using a modification of a known method.2
+ 1 mL of Igepal CO-520,
+0.8 mg of Fe3O4 and 200 µL of ammonium hydroxide (30%) were dispersed in cyclohexane and
+stirred to form a transparent and brown reverse microemulsion. Next, 100 µL of tetraethyl
+orthosilicate (TEOS) was added and the emulsion was let stand for 12 h at room temperature. 100 µL
+of (3-aminopropyl)triethoxysilane (APTES) was added and reacted for another 10 h to introduce
+-NH2 onto the surface. Fe3O4@SiO2-NH2 nanoparticles were precipitated and collected by
+centrifugation after demulsion by ethanol. Multistep conjugations were conducted on the surface of Fe3O4 NPs to install Gd
+chelates on the central nanoparticle via cleavable linkers. First, Fe3O4
+NPs were coated with SiO2 shells with amino groups modification on
+the surface, which were then conjugated to heterobifunctional linkers,
+4-(N-maleimidomethyl)cyclohexane-1-carboxylic acid 3-sulfo-N-hydroxysuccinimide ester sodium salt, via amide formation. Second,
+Peptide A (sequence: KSKSQSGPLGLAGGSQPC) was conjugated to
+the nanoparticles through the reaction between maleimide and thiol of
+cysteine residues, and then alkynyl groups were introduced by the
+reaction between the amino group on the peptide and propargyl-Nhydroxysuccinimidyl ester. After that, dendrimer azide-PAMAM (N3−
+G2) was introduced via standard Sharpless click conditions using
+ascorbic acid and CuSO4. Third, Gd chelates were conjugated by
+modified nanoparticles with p-SCN−DTPA and Gd3+ chelation with
+GdCl3·6H2O. Ultrafiltration was executed after each modification step
+to remove excess reactants from the NPs. We also assembled Fe3O4−
+pepB−Gd (without signal amplification) and Fe3O4−pepA(D)−Gd
+(uncleavable peptide) conjugates for negative control; see the
+Supporting Information for details","",,,,,,,"",,"","",,"TEM","200","",,"24","24","24","24","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.47","2.95",,,,,,,,,,,,,,
+,"https://doi.org/10.1016/j.biomaterials.2016.05.054",,,"Fe3O4","Mn3O4","PEG","",,,"Monodispersed Fe3O4 nanoparticles were prepared using the
+reported thermal decomposition method [9]. In a typical reaction,
+iron (III) acetylacetonate (2 mmol), 1,2-hexadecanediol (10 mmol),
+oleic acid (6 mmol), and oleylamine (6 mmol) were dissolved in
+benzyl ether (20 mL) and magnetically stirred under an ambient
+nitrogen atmosphere. The mixture was pre-heated to 200 C for 2 h
+and then refluxed at 300 C for 1 h. After being cooled down to
+room temperature (RT), the product was purified with excess ethyl
+alcohol three times and dispersed in hexane.","",,,,,,,"https://doi.org/10.1002/mabi.201400029",,"","",,"TEM",,"",,"13.3","13.3","13.3","13.3","Sphere",,,,,,,,,"MTT","MKN-45","","96",,,,,,,,,"298","15","48",,,,,,,,,,,,,,,,,,,,,,,,,,,"1.5","2.4","92.2",,,,,,,,,,,,,
+,"https://doi.org/10.1002/advs.201901800",,,"Fe3O4","PEG","DA/FA","","45.7",,"Citric acid-stabilized ultrasmall Fe3O4 NPs were prepared by a solvothermal method
+according to the literature[2] with a slight modification. Typically, anhydrous FeCl3 (4 mmol)
+was dissolved in diethylene glycol (40 mL) under ultrasonication to form a homogeneous
+solution. Na3Cit (1.6 mmol) was added to the above solution, and the mixture was heated to
+80 °C in a water bath to form a clear solution. Subsequently, sodium acetate (12 mmol) was
+added to the above mixture solution and then the mixture was transferred to a Teflon-lined
+stainless-steel autoclave with a volume of 50 mL and sealed in air. The autoclave was then
+placed in an oven at 200 °C for 5.5 h. After cooling down to room temperature, the black
+solution was collected by centrifugation (10 000 rpm, 10 min) and purified with ethanol (2
+times) and water (1 time) to remove excess reactants and byproducts. The resulting black
+product was redispersed into water and lyophilized to obtain ultrasmall Fe3O4 NPs. The ultrasmall Fe3O4 NPs (56 mg) dispersed in DMSO (5 mL) was activated by EDC
+(144 mg, in 2 mL DMSO) under vigorously stirring for 30 min, then NHS (70 mg, in 1 mL
+DMSO) was added into the above solution under stirring for another 3 h. After that, the NH2-
+PEG-(DA)-FA solution (7 mg, in 3 mL DMSO) was dropwise added to the above solution
+under vigorous stirring for 3 days. The reaction mixture was then dialyzed against water (9
+times, 2 L) using a dialysis membrane with an MWCO of 5000 for 3 days, followed by
+lyophilization to obtain the product of Fe3O4-PEG-(DA)-FA NPs.","",,,,,,,"",,"","",,"TEM","200","",,"2.8","2.8","2.8","2.8","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0.5","3.83","9.04",,,,,,,,,,,,,
+,"https://doi.org/10.1021/nl902715v",,,"Fe3O4","PEG-350","","","30",,"","",,,,,,,"https://doi.org/10.1021/ja0380852",,"","",,"TEM",,"",,"4","4","4","4","Sphere",,,,,,,,,"MTT","J774","","92",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1.41","6","39",,,,,,,,,,,,,
+,"https://doi.org/10.1021/nl902715v",,,"Fe3O4","PEG-550","","","11",,"","",,,,,,,"https://doi.org/10.1021/ja0380852",,"","",,"TEM",,"",,"4","4","4","4","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1.41","7","17",,,,,,,,,,,,,
+,"https://doi.org/10.1021/nl902715v",,,"Fe3O4","PEG-1100","","","9",,"","",,,,,,,"https://doi.org/10.1021/ja0380852",,"","",,"TEM",,"",,"4","4","4","4","Sphere",,,,,,,,,"MTT","J774","","93",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1.41","8","17",,,,,,,,,,,,,
+,"https://doi.org/10.1021/nl902715v",,,"Fe3O4","PEG-2000","","","12",,"","",,,,,,,"https://doi.org/10.1021/ja0380852",,"","",,"TEM",,"",,"4","4","4","4","Sphere",,,,,,,,,"MTT","J774","","66",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1.41","7","19",,,,,,,,,,,,,
+,"doi:10.7150/thno.14280",,,"Fe3O4","PEG","","","10",,"Uniform T1-Fe3O4 were synthesized via the
+thermal decomposition of Fe(acac)3 in the presence of
+oleylamine and benzyl ether. Specifically, Fe(acac)3
+(1.05 g, 3 mmol), oleylamine (12 mL, 37 mmol) and
+benzyl ether (8 mL, 42 mmol) were mixed together
+and placed into a 100 mL three-neck round-bottom
+flask. The mixture was stirred under a flow of N2 for
+10 min to remove any oxygen at room temperature.
+Then, the mixture was heated to 220 °C at a constant
+heating rate of 3.3 °C/min and refluxed at this
+temperature for 1 h. Next, the mixture was heated to
+290 °C at the same uniform heating rate and lastly
+maintained at this temperature for 10 min. As the
+reaction proceeded, the color of the solution changed
+from the initial transparent red to reddish-brown and
+finally opaque black. After the reaction, the mixture
+was rapidly cooled to room temperature. The
+products were separated by an external magnet, then
+washed three times using ethanol, and finally
+dissolved in 20 mL hexane. PEG-derivatized dopamine (DA-PEG-COOH)
+was first synthesized. In detail, carboxylated PEG (60
+mg, 0.03 mmol), NHS (6 mg, 0.05 mmol), DCC (9 mg,
+0.04 mmol), dopamine hydrochloride (3.9 mg, 0.02
+mmol) and anhydrous Na2CO3 (30 mg, 0.28 mmol)
+were dissolved in a mixture solvent containing CHCl3
+(6 mL) and DMF (3 mL). This mixed solution was
+stirred (500 rpm) for 2 h at 35 °C to obtain
+DA-PEG-COOH. Next, 15 mg (Fe element mass in
+Fe3O4 NPs) hydrophobic T1-Fe3O4 were added and the
+mixed solution was continually stirred overnight (200
+rpm) at the same temperature. After the reaction,
+hexane was added to precipitate the PEGylated
+T1-Fe3O4, which were collected by an external
+permanent magnet and dried under N2. Lastly,
+PEGylated T1-Fe3O4 could be redispersed in distilled
+water. The extra surfactants and other salts were
+removed by dialysis using a dialysis bag
+(MWCO=8000~12000) in distilled water for 48 h. Any
+precipitation was removed by a 220 nm syringe filter.
+The final products were stored at 4 °C for next uses.","Polyol",,,,,,,"",,"","",,"TEM",,"",,"5.3","5.3","5.3","5.3","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","20","46",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","7.82","17.99",,,,,,,,,,,,,
+,"doi:10.7150/thno.14280",,,"Fe3O4","RGD","","","15",,"Uniform T1-Fe3O4 were synthesized via the
+thermal decomposition of Fe(acac)3 in the presence of
+oleylamine and benzyl ether. Specifically, Fe(acac)3
+(1.05 g, 3 mmol), oleylamine (12 mL, 37 mmol) and
+benzyl ether (8 mL, 42 mmol) were mixed together
+and placed into a 100 mL three-neck round-bottom
+flask. The mixture was stirred under a flow of N2 for
+10 min to remove any oxygen at room temperature.
+Then, the mixture was heated to 220 °C at a constant
+heating rate of 3.3 °C/min and refluxed at this
+temperature for 1 h. Next, the mixture was heated to
+290 °C at the same uniform heating rate and lastly
+maintained at this temperature for 10 min. As the
+reaction proceeded, the color of the solution changed
+from the initial transparent red to reddish-brown and
+finally opaque black. After the reaction, the mixture
+was rapidly cooled to room temperature. The
+products were separated by an external magnet, then
+washed three times using ethanol, and finally
+dissolved in 20 mL hexane. PEG-derivatized dopamine (DA-PEG-COOH)
+was first synthesized. In detail, carboxylated PEG (60
+mg, 0.03 mmol), NHS (6 mg, 0.05 mmol), DCC (9 mg,
+0.04 mmol), dopamine hydrochloride (3.9 mg, 0.02
+mmol) and anhydrous Na2CO3 (30 mg, 0.28 mmol)
+were dissolved in a mixture solvent containing CHCl3
+(6 mL) and DMF (3 mL). This mixed solution was
+stirred (500 rpm) for 2 h at 35 °C to obtain
+DA-PEG-COOH. Next, 15 mg (Fe element mass in
+Fe3O4 NPs) hydrophobic T1-Fe3O4 were added and the
+mixed solution was continually stirred overnight (200
+rpm) at the same temperature. After the reaction,
+hexane was added to precipitate the PEGylated
+T1-Fe3O4, which were collected by an external
+permanent magnet and dried under N2. Lastly,
+PEGylated T1-Fe3O4 could be redispersed in distilled
+water. The extra surfactants and other salts were
+removed by dialysis using a dialysis bag
+(MWCO=8000~12000) in distilled water for 48 h. Any
+precipitation was removed by a 220 nm syringe filter.
+The final products were stored at 4 °C for next uses.","Polyol",,,,,,,"",,"","",,"TEM",,"",,"5.3","5.3","5.3","5.3","Sphere",,,,,,,,,"MTT","RAW 264.7","","100",,,,,,,,,"300","20","49",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","7.74","21.67",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.langmuir.9b00337",,,"Fe1Pt1.6","poly(isobutylenemaleic) acid anhydride","","","7.2","-38","FePt NPs with sizes of 2 nm were synthesized referring to the protocol of Elkins et al.1 The reaction was
+carried out under inert atmosphere using standard airless conditions. A tree-neck glass flask with magnetic
+stir bar and glass capillary for the thermal probe was cleaned with caro’s acid. The prepared flask was
+equipped with 177 mg Fe(acac)3, 198 mg Pt(acac)2 and 390 mg 1,2-hexadecandiol and was evacuated
+three times and degassed with argon again. Afterwards, 30 ml dioctyl ether has been added to the solids.
+An additional degassing step was performed and the reaction apparatus was flushed with argon for 30 min.
+The orange mixture was heated up to 100 °C and held there for 20 min. After the dwell time, 0.16 ml oleic
+acid and 0.16 ml oleylamine were injected into the solution. The reaction solution was heated up to 295 °C
+with a heating step of 7 °C/min. During the heating step the solution turned black and was kept under
+reflux for 30 min. Afterwards the solution was cooled to room temperature and 80 ml of degassed ethanol
+was injected in the reaction flask to precipitate a black product. The resulting dispersion was centrifuged
+with 400 rpm for 10 min. The clear colorless supernatant was discharged and the black precipitate was redispersed in hexane. The precipitation step was repeated one more time and the final product was
+redispersed in a solution of 0.05 ml oleic acid, 0.05 ml oleylamine and 10 ml Hexane. The final product
+was then filtered through a 220 µm filter and transferred into a schlenk flask.","",,,,,,,"","2","","FePt",,"TEM","200","",,"2.2","2.2","2.2","2.2","Sphere",,,,,,,,,"","","",,,,,,,,,,"295","50","52.8",,,,,,"5","300","50","60",,,,,,,,,,,,,,,,,,"1.5","1.7","8.2",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.langmuir.9b00337",,,"Fe1Pt1.1","poly(isobutylenemaleic) acid anhydride","","","11.2","-63.6","FePt NPs with sizes of 2 nm were synthesized referring to the protocol of Elkins et al.1 The reaction was
+carried out under inert atmosphere using standard airless conditions. A tree-neck glass flask with magnetic
+stir bar and glass capillary for the thermal probe was cleaned with caro’s acid. The prepared flask was
+equipped with 177 mg Fe(acac)3, 198 mg Pt(acac)2 and 390 mg 1,2-hexadecandiol and was evacuated
+three times and degassed with argon again. Afterwards, 30 ml dioctyl ether has been added to the solids.
+An additional degassing step was performed and the reaction apparatus was flushed with argon for 30 min.
+The orange mixture was heated up to 100 °C and held there for 20 min. After the dwell time, 0.16 ml oleic
+acid and 0.16 ml oleylamine were injected into the solution. The reaction solution was heated up to 295 °C
+with a heating step of 7 °C/min. During the heating step the solution turned black and was kept under
+reflux for 30 min. Afterwards the solution was cooled to room temperature and 80 ml of degassed ethanol
+was injected in the reaction flask to precipitate a black product. The resulting dispersion was centrifuged
+with 400 rpm for 10 min. The clear colorless supernatant was discharged and the black precipitate was redispersed in hexane. The precipitation step was repeated one more time and the final product was
+redispersed in a solution of 0.05 ml oleic acid, 0.05 ml oleylamine and 10 ml Hexane. The final product
+was then filtered through a 220 µm filter and transferred into a schlenk flask.","",,,,,,,"","2.4","","FePt",,"TEM","200","",,"3.2","3.2","3.2","3.2","Sphere",,,,,,,,,"","","",,,,,,,,,,"295","50","46.9",,,,,,"5","300","60",,,,,,,,,,,,,,,,,,,"1.5","0.8","19.6",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.langmuir.9b00337",,,"Fe1Pt1.3","poly(isobutylenemaleic) acid anhydride","","","12.2","-67.1","FePt NPs with sizes of 6 nm were synthesized referring to the protocol of Chen et al.2
+ The reaction was
+carried out under inert atmosphere using standard airless conditions. A tree-neck glass flask with magnetic
+stir bar and glass capillary for the thermal probe was cleaned with caro’s acid. The prepared flask was
+equipped with 197 mg Pt(acac)2 and was evacuated three times and degassed with argon again.
+Afterwards, 20 ml dioctyl ether was added to the solids. An additional degassing step was performed and
+the reaction apparatus was flushed with argon for 30 min. The yellow mixture was heated up to 100 °C
+and 0.8 ml oleic acid, 0.85 ml oleylamine, and 0.13 ml Fe(CO)5 were injected into the mixture. The
+reaction solution was heated up to 240 °C with a heating step 15 °C/min. and held there for 60 min.
+During the heating the solution turned black. After the dwell time, the solution was heated up to 295 °C
+and was kept under reflux for 30 min. Afterwards, the solution was cooled to room temperature and 60 ml
+of degassed ethanol was injected in the reaction flask to precipitate a black product. The resulting
+dispersion was centrifuged with 400 rpm for 10 min. The clear colorless supernatant was discharged and
+the black precipitated was redisolved in Hexane. The precipitation step was repeated one more time and
+the final product was redispersed in a solution of 0.05 ml oleic acid, 0.05 ml oleylamine and 10 ml hexane.
+The final product was then filtered through a 220 µm filter and transferred in a schlenk flask.","",,,,,,,"","4.6","","FePt",,"TEM","200","",,"6.2","6.2","6.2","6.2","Sphere",,,,,,,,,"","","",,,,,,,,,,"295","50","69.9",,,,,,"5","300","70",,,,,,,,,,,,,,,,,,,"1.5","12.3","113",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.langmuir.9b00337",,,"Fe1Pt1.3","poly(isobutylenemaleic) acid anhydride","","","14.2","-45.5","Sub-10 nm FePt nanoparticles were prepared with minor changes according to the synthesis route from
+literature.3
+ The synthesis is carried out under inert argon atmosphere using standard airless conditions. A
+three-neck glass flask with magnetic stir bar and glass capillary for thermal probe was cleaned with caro`s
+acid before use. The three-neck flask was equipped under argon atmosphere with 197 mg Pt(acac)2 and","",,,,,,,"","4.6","","FePt",,"TEM","200","",,"7.5","7.5","7.5","7.5","Sphere",,,,,,,,,"","","",,,,,,,,,,"295","50","82.4",,,,,,"5","300","30",,,,,,,,,,,,,,,,,,,"1.5",,"221.2",,,,,,,,,,,,,
+,"DOI: 10.1016/j.msec.2016.11.077",,,"FePt","CdS","","",,,"A facile one-pot method was adopted for the synthesis of hydrophilic FePt-CdS bimodal nanosystem.
+For the development of bimodal nanoprobe FePt-CdS, FePt MNP was
+developed by a facile polyol process reported earlier [33]. In brief, 25 ml
+ethylene glycol, 1.0 mmol platinum (II) acetylacetonate and 4 mmol sodium borohydride were added in a three necked flask under N2 atm. at
+room temperature (Fig. 1(a)). After attaining the temperature 100 °C,
+2 mmol iron (III) acetylacetonate was added along with 200 μl of surfactant TG acid. The solution in the N2 atm. was then heated up-to 190 °C at
+the rate of 1 °C per min. After that, the solution was cooled down to
+100 °C temperature under inert atmosphere. This as-prepared TG acid
+capped FePt magnetic nanoparticles will act as the template for the developing bimodal nanoprobe (Fig. 1(b)). The next step of the reaction
+was conducted in an open atmosphere. 2.5 mmol of cadmium chloride
+monohydrate and 0.5 mmol of GSH were dissolved in 5 ml of ethylene
+glycol separately, in the molar ratio 5:1 of Cd and GSH. The inert atmosphere of reaction vessel was replaced by the ambient condition, when
+the reaction temperature came down to 100 °C. At first, the Cd precursor
+was added in the reaction vessel at the temperature 100 °C. After
+15 min, 0.5 mmol glutathione was mixed in the reaction vessel elevated
+to a temperature of 120 °C, which acted as a capping agent as well as the
+sulphur source for CdS growth. The pH was adjusted to 8.0 with stirring
+(Fig. 1(c)). The reaction temperature was then further increased at the
+rate of 1 °C/min to 230 °C. After attaining 230 °C, the heating was
+stopped and the reaction vessel was allowed to cool down to room temperature for purification process (Fig. 1(d)). The purification was conducted in two steps - a) centrifugation followed by b) magnetic
+separation. The purification was carried out to remove the residual surfactants by centrifugation using mixture of aliquot, hexane, isopropyl alcohol, and methanol in the ratio of 1:1:2:1 respectively. The magnetic
+separation was carried out in centrifuged mass for obtain purified magnetic mass only; which was used for further characterizations.","Polyol",,,,,,,"",,"","FePt/CdS",,"TEM",,"",,,,,,"Sphere",,,,,,,,,"","","",,,,,,,,,,"300","90","3.8","0","0",,,,"5","300","100","54",,,,,,,,,,,,,,,,,,"14.1",,"0.9822",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acsami.9b11353",,,"FePt","MnO","DSPE-PEG5000-FA","","150",,"The FePt NCs were
+synthesized by thermo-decomposition and thermo-reduction method.
+Pt(acac)2 (40 mg, 0.1 mmol) was mixed with 1033.8 mg 1,2-
+hexadecanediol (4 mmol), 4 mL OA (12.6 mmol), 4 mL OAm (12.1
+mmol), and 4 mL dioctyl ether. The mixture was degassed and
+backfilled with argon at 80 °C for 45 min and subsequently heated to
+115 °C. Then, 66 μL of Fe(CO)5 (0.5 mmol) was injected and the
+reaction mixture was heated to 240 °C for 60 min. After cooling to
+room temperature, the product was collected by centrifugation (9000
+rpm for 10 min) and washed with hexane and ethanol (1:3), and the
+product was stored in hexane. 
+First, the
+manganese oleate must be synthetized (see the Supporting
+Information). Then, 25 mg of FePt NCs were dispersed in 3 mL
+hexane. In addition, 40 mg of manganese oleate was mixed with 953
+μL OA (3 mmol), 1980 μL OAm (6 mmol), and 15 mL of benzyl
+ether. The two solutions above were mixed and degassed at 80 °C for
+10 min. Then, the mixture was refluxed for 30 min at 298−300 °C.
+After cooling to room temperature, the product was collected by
+centrifugation (9000 rpm for 10 min) and washed with hexane and
+ethanol (1:3) and the product was stored in hexane with 25 μL of OA
+and 25 μL of OAm.
+The solventexchange method was used in the coating procedure. Firstly, an
+assay was designed to explore a suitable quality ratio of the DSPEPEG5000-FA coating on the FePt@MnO NPs using UV−vis
+spectroscopy (see the Supporting Information). FePt@MnO NPs
+(5 mg) and 60 mg of DSPE-PEG5000-FA were dispersed in 2 mL
+chloroform, respectively. After mixing above two solutions and ultrasound for 2 min at 50 °C, 6 mL of deionized water was added with
+slight shaking. Then, the mixture was placed in a rotary evaporator to totally remove chloroform. Finally, the product of (FePt@MnO)@
+DSPE-PEG5000-FA was acquired. The procedure that coated FePt@
+MnO NPs with DSPE-mPEG5000 was consistent with above
+procedure.","",,,,,,,"",,"","FePt/MnO",,"TEM",,"",,"28",,,,"Cubic on the cubic's corners",,,,,,,,,"","","",,,,,,,,,,"298","20","1.6",,,,,,,,,,,,,,,,,,,,,,,,,,,"3","4.16","8.14",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.chemmater.9b03552",,,"FePt","","","","11",,"Fe(acac)3 (0.75 mmol) and Pt(acac)2
+(0.5 mmol) were used as the reaction precursors, and we added to the
+reaction solvent tetraethylene glycol (30 mL) in a 50 mL threenecked round-bottom flask. Argon was introduced into the threenecked round-bottom flask for 30 min for gas replacement. Next, a
+heating step was carried out, setting the heating rate to 5 °C/min until
+it reached 200 °C. When the temperature reached 200 °C, it was held
+for 1 h; then, we added oleic acid (1 mL) surfactant and continued to
+maintain this temperature for 30 min. After heating to 300 °C at a
+heating rate of 5 °C/min, the reaction was refluxed for 1 h. During the
+heating process, the color of the solution was observed to change from
+blackish-red to black, indicating that the FePt NPs had formed. Then,
+ethanol was added followed by centrifugation at 6000 rpm for 1 h, and
+the procedure for particle purification was carried out. The particles
+were precipitated due to the increase in the polarity of the solvent,
+and the purified FePt NPs were washed five times, after which the
+purified FePt NPs were dried. The black powder was collected to
+obtain a hydrophilic phase of FePt NPs.","Polyol",,,,,,,"",,"","FePt",,"TEM",,"",,"6","6","6","6","Sphere",,,,,,,,,"","","",,,,,,,,,,"300","16","17","180","2",,,,,,,,,,,,"0.8","16.35",,,,,,,,,,,,"4.7",,"17.18",,,,,,,,,,,,,
+,"https://doi.org/10.1021/acs.chemmater.9b03552",,,"FePt","Kaolinite","","","200",,"Fe(acac)3 (0.75 mmol) and Pt(acac)2
+(0.5 mmol) were used as the reaction precursors, and we added to the
+reaction solvent tetraethylene glycol (30 mL) in a 50 mL threenecked round-bottom flask. Argon was introduced into the threenecked round-bottom flask for 30 min for gas replacement. Next, a
+heating step was carried out, setting the heating rate to 5 °C/min until
+it reached 200 °C. When the temperature reached 200 °C, it was held
+for 1 h; then, we added oleic acid (1 mL) surfactant and continued to
+maintain this temperature for 30 min. After heating to 300 °C at a
+heating rate of 5 °C/min, the reaction was refluxed for 1 h. During the
+heating process, the color of the solution was observed to change from
+blackish-red to black, indicating that the FePt NPs had formed. Then,
+ethanol was added followed by centrifugation at 6000 rpm for 1 h, and
+the procedure for particle purification was carried out. The particles
+were precipitated due to the increase in the polarity of the solvent,
+and the purified FePt NPs were washed five times, after which the
+purified FePt NPs were dried. The black powder was collected to
+obtain a hydrophilic phase of FePt NPs. 
+In this experiment,
+FePt@Kao nanocomposites were prepared by a chemical reduction
+one-pot method. The surface modification of kaolinite was first
+prepared, and triethylene glycol was used as a reducing solvent. We
+added the Fe precursor, Pt precursor, and modified kaolinite using a
+simple one-pot method to synthesize the materials. The subsequent
+steps are the same as for the synthetic FePt NPs.","Polyol",,,,,,,"",,"","FePt/Kaolinite",,"TEM",,"",,"100",,,,"",,,,,,,,,"","","",,,,,,,,,,"300","16","25.86","100","2.6",,,,,,,,,,,,"0.8","36.91",,,,,,,,,,,,"4.7",,"29.32",,,,,,,,,,,,,
+,"https://doi.org/10.1039/C7NR07810B",,,"FePt","","","",,,"","Polyol",,,,,,,"http://dx.doi.org/10.1126/science.287.5460.1989",,"","",,"TEM","200","",,"20",,,,"Nanoflower",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"2.35","6.7","87",,,,,,,,,,,,,
+,"https://doi.org/10.1039/C7NR07810B",,,"FePt","SiO2","","",,,"","Polyol",,,,,,,"http://dx.doi.org/10.1126/science.287.5460.1989",,"","",,"TEM","200","",,"40","40","40","40","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"2.35","2.1","53",,,,,,,,,,,,,
+,"https://doi.org/10.1039/C7NR07810B",,,"FePt","SiO2","Au","PEG",,,"SiO2
+-coated, multi-core, FePt NPs were prepared as described
+in our previous work.13 The Au shells were prepared via a
+double Au seeding approach. Small gold NPs, i.e., Au seeds,
+were deposited on a SiO2
+ surface in the first Au seeding step
+by using the following procedure. First, to adjust the pH value
+to 7, 0.1-M NaOH (anhydrous, >98%, Sigma Aldrich) was added
+to 4 mL of 6.35-mM HAuCl4x3H2O (>99.9%, Alfa Aesar) in a
+water solution. The amine functionalized surface of the silica
+was seeded with Au(OH)3
+ by mixing FePt/SiO2
+ NPs with a
+HAuCl4x3H2O solution and stirred at 70 °C for 5 minutes. The
+colour change from yellow to orange-brown indicates the
+attachment of the Au(OH)3
+ to the SiO2
+ surface.23 The product
+was then centrifuged (950 rpm/30 min) and washed several
+times and finally dispersed in distilled water. In order to
+achieve denser Au seeding, i.e., fill the gaps between the Au
+seeds from the first run and to obtain a more uniform Au shell,
+in the second step, a Au seeding step was repeated using the
+same conditions as in the first Au seeding step. Hybrid
+FePt/SiO2/Au NPs were functionalized with mPEG-SH (average
+Mn 6000, Sigma Aldrich) using the following procedure. Into
+the suspension of hybrid NPs in water (2 mL, 5 mg) 2 mL of
+mPEG-SH (0.5 mg/mL) was added. The reaction mixture was
+then stirred for 30 min at 60°C. The sample was then
+centrifuged (7000 rpm/10 min) and washed several times to
+remove the excess of mPEG-SH and finally dispersed in distilled
+water.","Polyol",,,,,,,"http://dx.doi.org/10.1126/science.287.5460.1989",,"","",,"TEM","200","",,"56","56","56","56","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"2.35","0.9","47",,,,,,,,,,,,,
+,"https://doi.org/10.1016/j.canlet.2018.01.024",,,"FePt","Cysteamine","","",,,"A chemical reduction method was applied to synthesize the NPs. Briefly, 0.386
+mmol Iron acetylacetonate (Fe(acac)3 , 98%, Aladdin®, USA) , 1.5 ml oleic
+acid (C18H34O2, OA, Aladdin®, USA) and 1.5 ml oleylamine (C18H37N, OL,
+95%, Aladdin®, USA) were sequentially added into a flask with 100 ml
+anhydrous ethanol. After stirring for 30 min using a magnetic stirrer,
+Chloroplatinic acid (H2PtCl6•6H2O, Reagent No.1 Factory Of Shanghai
+Chemical Reagent Co., Ltd., China) ethanol solution (19.3 mmol/l, 20 ml, 0.386
+mmol) was dripped slowly into the flask, stirred for a further 30 minutes,
+Sodium borohydride (NaBH4, 96%, Sinopharm Chemical Reagent Co., Ltd.,
+China) ethanol solution (65.7 mmol/l, 200 ml, 13.14 mmol) was added
+dropwise. The mixture was then incubated at 40 °C a nd stirred for 2 h. Finally,
+the NPs were separated by centrifugation (8,000 rpm, 5 min), dried in a
+vacuum oven at 40 °C overnight, and stored in vacuu m drying oven.
+FePt NPs (100mg) were dissolved in 100 ml anhydrous ethanol by sonication
+and added 500 mg cysteamine (C2H7NS, Cys, Aladdin®, USA) predissolved in
+100 ml anhydrous ethanol (Sinopharm Chemical Reagent Co., Ltd.). The
+mixture was sonicated for approximately 6 h at room temperature and then
+stored in vacuum drying oven.","",,,,,,,"",,"","FePt",,"TEM",,"",,"254","254","254","254","Sphere",,,,,,,,,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.9",,,,,,,,,,,,,
+,"https://doi.org/10.1002/adma.201101877",,,"Fe3O4","PEG","","",,,"Control experiments using Fe3O4 nanoparticle micelles were prepared following
+previously reported methods. Briefly, 1 mL of a 2 mg/mL stock solution of 9 nm oleic
+acid coated Fe3O4 nanoparticles suspended in choloroform were added to a vial
+containing 1 mL of 10 mg/mL mPEG – DSPE (MW = 5,000, Avanti, USA). After
+evaporation of the solvent, the micelle-coated Fe3O4 nanoparticles were resuspended in 2
+mL of PBS by sonicating at 70 °C for 5 to 10 min. The resulting solution was purified on
+a sephadex column (GE Healthcare, USA) followed by three successive centrifugal
+filtrations using a 100 kDa centrifuge filter at 6,000 RPM for 30 min. The final solution
+was resuspended in 2 mL of PBS and syringe filtered through 0.22 µm PVDF filters
+(Millipore, USA) to obtain Fe3O4 micelles that were 200 nm in diameter. To add a
+fluorophore to the micelles, 100 µL of amino terminated PEG – DSPE and 900 µL of
+mPEG – DSPE was used in the formation of the micelles. An NHS-conjugated Cy7
+fluorescent label was then reacted with the micelles by gentle agitation at room
+temperature for 4 h followed by purification and filtration procedures similar to those
+used in the methoxyPEG-terminated micelle preparation.","",,,,,,,"",,"","Fe3O4",,"TEM",,"",,"15","15","15","15","Sphere",,,,,,,,,"","","",,,,,,,,,,"298","50","60",,,,,,,,,,,,,,,,,,,,,,,,,,,"3",,"333",,,,,,,,,,,,,
+,"https://doi.org/10.1021/cm201297x","","","B-NaGdF4","PVP-10","","","10.2",,"Gadolinium chloride hexahydrate (1 mmol), oleic acid (4 mL) and octadecene
+(15 mL) were mixed together and heated to 140 C under vacuum until
+a clear solution formed, after which the solution was cooled to room
+temperature. A solution of NaOH (2.5 mmol) and ammonium fluoride
+(4 mmol) in methanol (10 mL) was added dropwise to this and the
+mixture was stirred overnight (∼15 h). The reaction mixture was then
+heated at 70 C to remove the methanol and placed under a gentle argon
+flow. Afterward, the solution was heated rapidly to the desired temperature (∼10 C/min) and maintained for a constant time, depending on
+the desired NP size. Subsequently, the solution was cooled to room
+temperature and the NPs precipitated using ethanol, centrifuged
+(4500 rpm, Beckman Coulter Spinchron 15-rotor F0630), and washed
+twice with ethanol. The NPs were finally dispersed in 5 mL of toluene
+and centrifuged, and the supernatant was stored.","",,,,"",,"","","2.6","","B-NaGdF4","","TEM",,"",,"2.5","2.5","2.5","2.5","Sphere","","","",,,,,"","","","",,,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"1.5","7.2","22.7",,,,"","",,"",,,,,,
+,"https://doi.org/10.1021/cm201297x","","","B-NaGdF4","PVP-10","","","10.7",,"Gadolinium chloride hexahydrate (1 mmol), oleic acid (4 mL) and octadecene
+(15 mL) were mixed together and heated to 140 C under vacuum until
+a clear solution formed, after which the solution was cooled to room
+temperature. A solution of NaOH (2.5 mmol) and ammonium fluoride
+(4 mmol) in methanol (10 mL) was added dropwise to this and the
+mixture was stirred overnight (∼15 h). The reaction mixture was then
+heated at 70 C to remove the methanol and placed under a gentle argon
+flow. Afterward, the solution was heated rapidly to the desired temperature (∼10 C/min) and maintained for a constant time, depending on
+the desired NP size. Subsequently, the solution was cooled to room
+temperature and the NPs precipitated using ethanol, centrifuged
+(4500 rpm, Beckman Coulter Spinchron 15-rotor F0630), and washed
+twice with ethanol. The NPs were finally dispersed in 5 mL of toluene
+and centrifuged, and the supernatant was stored.","",,,,"",,"","","3.8","","B-NaGdF4","","TEM",,"",,"4","4","4","4","Sphere","","","",,,,,"","","","",,,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"1.5","4.5",,,,,"","",,"",,,,,,
+,"https://doi.org/10.1021/cm201297x","","","B-NaGdF4","PVP-10","","","13",,"Gadolinium chloride hexahydrate (1 mmol), oleic acid (4 mL) and octadecene
+(15 mL) were mixed together and heated to 140 C under vacuum until
+a clear solution formed, after which the solution was cooled to room
+temperature. A solution of NaOH (2.5 mmol) and ammonium fluoride
+(4 mmol) in methanol (10 mL) was added dropwise to this and the
+mixture was stirred overnight (∼15 h). The reaction mixture was then
+heated at 70 C to remove the methanol and placed under a gentle argon
+flow. Afterward, the solution was heated rapidly to the desired temperature (∼10 C/min) and maintained for a constant time, depending on
+the desired NP size. Subsequently, the solution was cooled to room
+temperature and the NPs precipitated using ethanol, centrifuged
+(4500 rpm, Beckman Coulter Spinchron 15-rotor F0630), and washed
+twice with ethanol. The NPs were finally dispersed in 5 mL of toluene
+and centrifuged, and the supernatant was stored.","",,,,"",,"","","7.2","","B-NaGdF4","","TEM",,"",,"6.5","6.5","6.5","6.5","Sphere","","","",,,,,"","","","",,,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"1.5","3.3",,,,,"","",,"",,,,,,
+,"https://doi.org/10.1021/cm201297x","","","B-NaGdF4","PVP-10","","","17.3",,"Gadolinium chloride hexahydrate (1 mmol), oleic acid (4 mL) and octadecene
+(15 mL) were mixed together and heated to 140 C under vacuum until
+a clear solution formed, after which the solution was cooled to room
+temperature. A solution of NaOH (2.5 mmol) and ammonium fluoride
+(4 mmol) in methanol (10 mL) was added dropwise to this and the
+mixture was stirred overnight (∼15 h). The reaction mixture was then
+heated at 70 C to remove the methanol and placed under a gentle argon
+flow. Afterward, the solution was heated rapidly to the desired temperature (∼10 C/min) and maintained for a constant time, depending on
+the desired NP size. Subsequently, the solution was cooled to room
+temperature and the NPs precipitated using ethanol, centrifuged
+(4500 rpm, Beckman Coulter Spinchron 15-rotor F0630), and washed
+twice with ethanol. The NPs were finally dispersed in 5 mL of toluene
+and centrifuged, and the supernatant was stored.","",,,,"",,"","","8.1","","B-NaGdF4","","TEM",,"",,"8","8","8","8","Sphere","","","",,,,,"","","","",,,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"1.5","3",,,,,"","",,"",,,,,,
+,"https://doi.org/10.1021/nn304837c","","","NaGdF4","PEG-mAb","","",,,"In a typical preparation,
+GdCl3 3 6H2O (0.371 g, 1 mmol) was dissolved in a mixture of OA
+(14 mL) and ODE (16 mL).The solution was heated to 150 C
+under nitrogen protection to form a homogeneous solution,
+into which 10 mL of methanol solution containing NaOH (0.100 g,
+2.5 mmol) and NH4F (0.148 g, 4 mmol) was then slowly added
+after it was cooled down to room temperature. After that, the
+reaction mixture was kept under stirring at 50 C for 30 min, at
+100 C under vacuum for 10 min to remove methanol, and then
+heated to 300 C under atmospheric pressure by electromantle,
+and maintained at 300 C for 1 h under nitrogen protection. The
+preparation was terminated by cooling the reaction mixture
+down to room temperature. The resultant nanoparticles, that is,
+NaGdF4-15, were precipitated by ethanol, collected by centrifugation, washed with ethanol several times, and finally redispersed in THF or cyclohexane for further experiments. 
+As a typical example, 100 mg of PEGphosphate ligand was mixed with ca. 10 mg OA-coated NaGdF4
+nanoparticles in 10 mL of THF. Then, the reaction mixture was
+kept overnight at room temperature under stirring. The PEGcoated particles were precipitated by cyclohexane, washed with
+cyclohexane for three times, and finally dried under vacuum at
+room temperature. The PEG-coated NaGdF4 particles obtained
+in this way, independent of the particle size, were found to be
+readily dissolved in aqueous media.","",,,,"",,"","",,"","","","TEM","100","",,"5.4","5.4","5.4","5.4","Sphere","","","",,,,,"","MTT","GC7901","","5",,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"3","6.2",,,,,"","",,"",,,,,,
+,"https://doi.org/10.1021/nn304837c","","","NaGdF4","PEG-mAb","","",,,"In a typical preparation,
+GdCl3 3 6H2O (0.371 g, 1 mmol) was dissolved in a mixture of OA
+(14 mL) and ODE (16 mL).The solution was heated to 150 C
+under nitrogen protection to form a homogeneous solution,
+into which 10 mL of methanol solution containing NaOH (0.100 g,
+2.5 mmol) and NH4F (0.148 g, 4 mmol) was then slowly added
+after it was cooled down to room temperature. After that, the
+reaction mixture was kept under stirring at 50 C for 30 min, at
+100 C under vacuum for 10 min to remove methanol, and then
+heated to 300 C under atmospheric pressure by electromantle,
+and maintained at 300 C for 1 h under nitrogen protection. The
+preparation was terminated by cooling the reaction mixture
+down to room temperature. The resultant nanoparticles, that is,
+NaGdF4-15, were precipitated by ethanol, collected by centrifugation, washed with ethanol several times, and finally redispersed in THF or cyclohexane for further experiments. 
+As a typical example, 100 mg of PEGphosphate ligand was mixed with ca. 10 mg OA-coated NaGdF4
+nanoparticles in 10 mL of THF. Then, the reaction mixture was
+kept overnight at room temperature under stirring. The PEGcoated particles were precipitated by cyclohexane, washed with
+cyclohexane for three times, and finally dried under vacuum at
+room temperature. The PEG-coated NaGdF4 particles obtained
+in this way, independent of the particle size, were found to be
+readily dissolved in aqueous media.","",,,,"",,"","",,"","","","TEM","100","",,"15.1","15.1","15.1","15.1","Sphere","","","",,,,,"","MTT","GC7901","","5",,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"3","5.7",,,,,"","",,"",,,,,,
+,"https://doi.org/10.1021/nn304837c","","","NaGdF4","PEG-mAb","","",,,"In a typical preparation,
+GdCl3 3 6H2O (0.371 g, 1 mmol) was dissolved in a mixture of OA
+(14 mL) and ODE (16 mL).The solution was heated to 150 C
+under nitrogen protection to form a homogeneous solution,
+into which 10 mL of methanol solution containing NaOH (0.100 g,
+2.5 mmol) and NH4F (0.148 g, 4 mmol) was then slowly added
+after it was cooled down to room temperature. After that, the
+reaction mixture was kept under stirring at 50 C for 30 min, at
+100 C under vacuum for 10 min to remove methanol, and then
+heated to 300 C under atmospheric pressure by electromantle,
+and maintained at 300 C for 1 h under nitrogen protection. The
+preparation was terminated by cooling the reaction mixture
+down to room temperature. The resultant nanoparticles, that is,
+NaGdF4-15, were precipitated by ethanol, collected by centrifugation, washed with ethanol several times, and finally redispersed in THF or cyclohexane for further experiments. 
+As a typical example, 100 mg of PEGphosphate ligand was mixed with ca. 10 mg OA-coated NaGdF4
+nanoparticles in 10 mL of THF. Then, the reaction mixture was
+kept overnight at room temperature under stirring. The PEGcoated particles were precipitated by cyclohexane, washed with
+cyclohexane for three times, and finally dried under vacuum at
+room temperature. The PEG-coated NaGdF4 particles obtained
+in this way, independent of the particle size, were found to be
+readily dissolved in aqueous media.","",,,,"",,"","",,"","","","TEM","100","",,"19.8","19.8","19.8","19.8","Sphere","","","",,,,,"","MTT","GC7901","","4",,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"3","8.78",,,,,"","",,"",,,,,,
+,"https://doi.org/10.1002/ange.200604775","","","MnO","PEG-phospholipid","","",,,"Synthesis of MnO nanoparticles is as follows: 1.24 g of the Mn-oleate complex (2
+mmol) was dissolved in 10 g of 1-octadecene (Aldrich Chemical Co., 90%). The
+mixture solution was degassed at 70 °C for 1 hr under a vacuum to remove the water
+and oxygen. The solution was then heated to 300 °C at a heating rate of 1.9 °C min-1
+with vigorous stirring. As the reaction temperature reached 300 °C, the initially pink
+coloured solution became transparent. Around 300 °C, the colour of the reaction
+mixture turned to pale green. This colour change indicated that the Mn-oleate complex
+was thermally decomposed to generate MnO nanoparticles, whereupon nucleation
+occurred. The reaction mixture was maintained at this temperature for 1 hr to induce
+sufficient growth. The solution was then cooled to room temperature, and 20 ml of
+hexane was added to improve the dispersibility of the nanoparticles, followed by adding
+80 ml of acetone to precipitate the nanoparticles. The waxy precipitate was retrieved by centrifugation. The above purification procedure was repeated two more times to
+remove excess surfactant and solvent. The purified MnO nanoparticles were dispersible
+in many organic solvents such as n-hexane and chloroform.","",,,,"",,"","",,"","MnO","","TEM",,"",,"7","7","7","7","Sphere","","","",,,,,"","","","",,,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"3","0.37","1.74",,,,"","",,"",,,,,,
+,"https://doi.org/10.1002/ange.200604775","","","MnO","PEG-phospholipid","","",,,"Synthesis of MnO nanoparticles is as follows: 1.24 g of the Mn-oleate complex (2
+mmol) was dissolved in 10 g of 1-octadecene (Aldrich Chemical Co., 90%). The
+mixture solution was degassed at 70 °C for 1 hr under a vacuum to remove the water
+and oxygen. The solution was then heated to 300 °C at a heating rate of 1.9 °C min-1
+with vigorous stirring. As the reaction temperature reached 300 °C, the initially pink
+coloured solution became transparent. Around 300 °C, the colour of the reaction
+mixture turned to pale green. This colour change indicated that the Mn-oleate complex
+was thermally decomposed to generate MnO nanoparticles, whereupon nucleation
+occurred. The reaction mixture was maintained at this temperature for 1 hr to induce
+sufficient growth. The solution was then cooled to room temperature, and 20 ml of
+hexane was added to improve the dispersibility of the nanoparticles, followed by adding
+80 ml of acetone to precipitate the nanoparticles. The waxy precipitate was retrieved by centrifugation. The above purification procedure was repeated two more times to
+remove excess surfactant and solvent. The purified MnO nanoparticles were dispersible
+in many organic solvents such as n-hexane and chloroform.","",,,,"",,"","",,"","MnO","","TEM",,"",,"15","15","15","15","Sphere","","","",,,,,"","","","",,,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"3","0.18","0.57",,,,"","",,"",,,,,,
+,"https://doi.org/10.1002/ange.200604775","","","MnO","PEG-phospholipid","","",,,"Synthesis of MnO nanoparticles is as follows: 1.24 g of the Mn-oleate complex (2
+mmol) was dissolved in 10 g of 1-octadecene (Aldrich Chemical Co., 90%). The
+mixture solution was degassed at 70 °C for 1 hr under a vacuum to remove the water
+and oxygen. The solution was then heated to 300 °C at a heating rate of 1.9 °C min-1
+with vigorous stirring. As the reaction temperature reached 300 °C, the initially pink
+coloured solution became transparent. Around 300 °C, the colour of the reaction
+mixture turned to pale green. This colour change indicated that the Mn-oleate complex
+was thermally decomposed to generate MnO nanoparticles, whereupon nucleation
+occurred. The reaction mixture was maintained at this temperature for 1 hr to induce
+sufficient growth. The solution was then cooled to room temperature, and 20 ml of
+hexane was added to improve the dispersibility of the nanoparticles, followed by adding
+80 ml of acetone to precipitate the nanoparticles. The waxy precipitate was retrieved by centrifugation. The above purification procedure was repeated two more times to
+remove excess surfactant and solvent. The purified MnO nanoparticles were dispersible
+in many organic solvents such as n-hexane and chloroform.","",,,,"",,"","",,"","MnO","","TEM",,"",,"20","20","20","20","Sphere","","","",,,,,"","","","",,,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"3","0.13","0.52",,,,"","",,"",,,,,,
+,"https://doi.org/10.1002/ange.200604775","","","MnO","PEG-phospholipid","","",,,"Synthesis of MnO nanoparticles is as follows: 1.24 g of the Mn-oleate complex (2
+mmol) was dissolved in 10 g of 1-octadecene (Aldrich Chemical Co., 90%). The
+mixture solution was degassed at 70 °C for 1 hr under a vacuum to remove the water
+and oxygen. The solution was then heated to 300 °C at a heating rate of 1.9 °C min-1
+with vigorous stirring. As the reaction temperature reached 300 °C, the initially pink
+coloured solution became transparent. Around 300 °C, the colour of the reaction
+mixture turned to pale green. This colour change indicated that the Mn-oleate complex
+was thermally decomposed to generate MnO nanoparticles, whereupon nucleation
+occurred. The reaction mixture was maintained at this temperature for 1 hr to induce
+sufficient growth. The solution was then cooled to room temperature, and 20 ml of
+hexane was added to improve the dispersibility of the nanoparticles, followed by adding
+80 ml of acetone to precipitate the nanoparticles. The waxy precipitate was retrieved by centrifugation. The above purification procedure was repeated two more times to
+remove excess surfactant and solvent. The purified MnO nanoparticles were dispersible
+in many organic solvents such as n-hexane and chloroform.","",,,,"",,"","",,"","MnO","","TEM",,"",,"25","25","25","25","Sphere","","","",,,,,"","","","",,,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"3","0.12","0.44",,,,"","",,"",,,,,,
+,"https://doi.org/10.1021/nn101643u","","","IronOxide","PVP","","","32.2","12.7","PVP-IOs
+were synthesized according to our previously described
+method37 with some modifications. Uniform-sized PVP-IO nanoparticles were synthesized by thermal decomposition of iron carbonyl (Fe(CO)5, 99.999%, Aldrich). Typically, 5 g of polyvinylpyrrolidone (PVP, MW 
+ 10000, Sigma-Aldrich) was dissolved in 15
+mL of anhydrous dimethylformamide (DMF, 99.8%, SigmaAldrich). The resulting solution was then purged with argon for
+30 min at room temperature to remove oxygen and subsequently heated to 160 °C under an inert argon atmosphere. As
+the temperature reached 160 °C, 0.4 mL of Fe(CO)5 (3 mmol)
+was quickly injected into the mixture under vigorous stirring. The
+reaction mixture was maintained at 160 °C for 2 h. The initially
+transparent red-brown solution became light brown and gradually turned black-brown. The final black-brown colloid solution
+was then stirred for another 1 h, cooled to room temperature,
+and destabilized by adding 50 mL of acetone. The precipitate
+was collected by centrifugation and washed twice to remove excess surfactant and reaction byproducts. The particles were then
+resuspended in water and dialyzed with deionized water for
+24 h. The size of the PVP-IO nanoparticles could be controlled
+by varying the ratio of PVP to Fe(CO)5. PVP-IOs with particle sizes of 8, 23, 37, and 65 nm were obtained when the ratio of PVP to
+Fe(CO)5 was 1:6, 1:7.5, 1:12, and 1:15, respectively","",,,,"",,"","",,"","","","TEM",,"",,"7.6","7.6","7.6","7.6","Sphere","","","",,,,,"","MTT","RAW264.7","","91",,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"7",,"173.37",,,,"","",,"",,,,,,
+,"https://doi.org/10.1021/nn101643u","","","IronOxide","PVP","","","70.7","11.9","PVP-IOs
+were synthesized according to our previously described
+method37 with some modifications. Uniform-sized PVP-IO nanoparticles were synthesized by thermal decomposition of iron carbonyl (Fe(CO)5, 99.999%, Aldrich). Typically, 5 g of polyvinylpyrrolidone (PVP, MW 
+ 10000, Sigma-Aldrich) was dissolved in 15
+mL of anhydrous dimethylformamide (DMF, 99.8%, SigmaAldrich). The resulting solution was then purged with argon for
+30 min at room temperature to remove oxygen and subsequently heated to 160 °C under an inert argon atmosphere. As
+the temperature reached 160 °C, 0.4 mL of Fe(CO)5 (3 mmol)
+was quickly injected into the mixture under vigorous stirring. The
+reaction mixture was maintained at 160 °C for 2 h. The initially
+transparent red-brown solution became light brown and gradually turned black-brown. The final black-brown colloid solution
+was then stirred for another 1 h, cooled to room temperature,
+and destabilized by adding 50 mL of acetone. The precipitate
+was collected by centrifugation and washed twice to remove excess surfactant and reaction byproducts. The particles were then
+resuspended in water and dialyzed with deionized water for
+24 h. The size of the PVP-IO nanoparticles could be controlled
+by varying the ratio of PVP to Fe(CO)5. PVP-IOs with particle sizes of 8, 23, 37, and 65 nm were obtained when the ratio of PVP to
+Fe(CO)5 was 1:6, 1:7.5, 1:12, and 1:15, respectively","",,,,"",,"","",,"","","","TEM",,"",,"23.4","23.4","23.4","23.4","Sphere","","","",,,,,"","MTT","RAW264.7","","98",,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"7",,"203.86",,,,"","",,"",,,,,,
+,"https://doi.org/10.1021/nn101643u","","","IronOxide","PVP","","","102.4","13.7","PVP-IOs
+were synthesized according to our previously described
+method37 with some modifications. Uniform-sized PVP-IO nanoparticles were synthesized by thermal decomposition of iron carbonyl (Fe(CO)5, 99.999%, Aldrich). Typically, 5 g of polyvinylpyrrolidone (PVP, MW 
+ 10000, Sigma-Aldrich) was dissolved in 15
+mL of anhydrous dimethylformamide (DMF, 99.8%, SigmaAldrich). The resulting solution was then purged with argon for
+30 min at room temperature to remove oxygen and subsequently heated to 160 °C under an inert argon atmosphere. As
+the temperature reached 160 °C, 0.4 mL of Fe(CO)5 (3 mmol)
+was quickly injected into the mixture under vigorous stirring. The
+reaction mixture was maintained at 160 °C for 2 h. The initially
+transparent red-brown solution became light brown and gradually turned black-brown. The final black-brown colloid solution
+was then stirred for another 1 h, cooled to room temperature,
+and destabilized by adding 50 mL of acetone. The precipitate
+was collected by centrifugation and washed twice to remove excess surfactant and reaction byproducts. The particles were then
+resuspended in water and dialyzed with deionized water for
+24 h. The size of the PVP-IO nanoparticles could be controlled
+by varying the ratio of PVP to Fe(CO)5. PVP-IOs with particle sizes of 8, 23, 37, and 65 nm were obtained when the ratio of PVP to
+Fe(CO)5 was 1:6, 1:7.5, 1:12, and 1:15, respectively","",,,,"",,"","",,"","","","TEM",,"",,"36.8","36.8","36.8","36.8","Sphere","","","",,,,,"","MTT","RAW264.7","","98",,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"7",,"239.98",,,,"","",,"",,,,,,
+,"https://doi.org/10.1021/nn101643u","","","IronOxide","PVP","","","118.3","12.5","PVP-IOs
+were synthesized according to our previously described
+method37 with some modifications. Uniform-sized PVP-IO nanoparticles were synthesized by thermal decomposition of iron carbonyl (Fe(CO)5, 99.999%, Aldrich). Typically, 5 g of polyvinylpyrrolidone (PVP, MW 
+ 10000, Sigma-Aldrich) was dissolved in 15
+mL of anhydrous dimethylformamide (DMF, 99.8%, SigmaAldrich). The resulting solution was then purged with argon for
+30 min at room temperature to remove oxygen and subsequently heated to 160 °C under an inert argon atmosphere. As
+the temperature reached 160 °C, 0.4 mL of Fe(CO)5 (3 mmol)
+was quickly injected into the mixture under vigorous stirring. The
+reaction mixture was maintained at 160 °C for 2 h. The initially
+transparent red-brown solution became light brown and gradually turned black-brown. The final black-brown colloid solution
+was then stirred for another 1 h, cooled to room temperature,
+and destabilized by adding 50 mL of acetone. The precipitate
+was collected by centrifugation and washed twice to remove excess surfactant and reaction byproducts. The particles were then
+resuspended in water and dialyzed with deionized water for
+24 h. The size of the PVP-IO nanoparticles could be controlled
+by varying the ratio of PVP to Fe(CO)5. PVP-IOs with particle sizes of 8, 23, 37, and 65 nm were obtained when the ratio of PVP to
+Fe(CO)5 was 1:6, 1:7.5, 1:12, and 1:15, respectively","",,,,"",,"","",,"","","","TEM",,"",,"65.3","65.3","65.3","65.3","Sphere","","","",,,,,"","MTT","RAW264.7","","98",,,,,,,,,,,,,,,,"",,,,,"","","",,,,,"","","",,,,,"","",,"7",,"248.89",,,,"","",,"",,,,,,
